@@ -20,6 +20,10 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - name: Publications
+        uses: actions/setup-python@v4
+        run: python pubs.py
+
       - name: Build
         run: hugo --minify
 
