@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MML</title>
-    <link>https://conorwilliams.github.io/mml/</link>
+    <link>//conorwilliams.github.io/mml/</link>
     <description>Recent content on MML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilliams.github.io/mml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/mml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biomaterials</title>
-      <link>https://conorwilliams.github.io/mml/news/biomaterials/</link>
+      <link>//conorwilliams.github.io/mml/news/biomaterials/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/news/biomaterials/</guid>
+      <guid>//conorwilliams.github.io/mml/news/biomaterials/</guid>
       <description>Thoughts on bioinspired materials</description>
     </item>
     
     <item>
       <title>Carbon nanotubes</title>
-      <link>https://conorwilliams.github.io/mml/news/nanotubes/</link>
+      <link>//conorwilliams.github.io/mml/news/nanotubes/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/news/nanotubes/</guid>
+      <guid>//conorwilliams.github.io/mml/news/nanotubes/</guid>
       <description>Thoughts on carbon nanotubes</description>
     </item>
     
     <item>
       <title>Composite materials</title>
-      <link>https://conorwilliams.github.io/mml/news/composite/</link>
+      <link>//conorwilliams.github.io/mml/news/composite/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/news/composite/</guid>
+      <guid>//conorwilliams.github.io/mml/news/composite/</guid>
       <description>Thoughts on composites materials science</description>
     </item>
     
     <item>
       <title>Computational modelling</title>
-      <link>https://conorwilliams.github.io/mml/news/modelling/</link>
+      <link>//conorwilliams.github.io/mml/news/modelling/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/news/modelling/</guid>
+      <guid>//conorwilliams.github.io/mml/news/modelling/</guid>
       <description>Thoughts on modelling in materials science</description>
     </item>
     
     <item>
       <title>Conor Williams PhD</title>
-      <link>https://conorwilliams.github.io/mml/people/conor/</link>
+      <link>//conorwilliams.github.io/mml/people/conor/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/people/conor/</guid>
+      <guid>//conorwilliams.github.io/mml/people/conor/</guid>
       <description>Surfing the sea of vowels 🌊</description>
     </item>
     
     <item>
       <title>Granular materials</title>
-      <link>https://conorwilliams.github.io/mml/news/granular/</link>
+      <link>//conorwilliams.github.io/mml/news/granular/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/news/granular/</guid>
+      <guid>//conorwilliams.github.io/mml/news/granular/</guid>
       <description>Thoughts on granular materials</description>
     </item>
     
     <item>
       <title>OpenFLY</title>
-      <link>https://conorwilliams.github.io/mml/codes/openfly/</link>
+      <link>//conorwilliams.github.io/mml/codes/openfly/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/codes/openfly/</guid>
+      <guid>//conorwilliams.github.io/mml/codes/openfly/</guid>
       <description>The open framework for on-the-fly off-lattice kinetic Monte Carlo simulations.</description>
     </item>
     
     <item>
       <title>Physical characterisation of nanomaterials</title>
-      <link>https://conorwilliams.github.io/mml/news/charachterisation/</link>
+      <link>//conorwilliams.github.io/mml/news/charachterisation/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilliams.github.io/mml/news/charachterisation/</guid>
+      <guid>//conorwilliams.github.io/mml/news/charachterisation/</guid>
       <description>Characterisation equipment</description>
     </item>
     
