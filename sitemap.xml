@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/news/biomaterials/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/biomaterials/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/nanotubes/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/nanotubes/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/codes/</loc>
+    <loc>https://conorwilliams.github.io/mml/tags/codes/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/codes/</loc>
+    <loc>https://conorwilliams.github.io/mml/codes/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/composite/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/composite/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/modelling/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/modelling/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/people/conor/</loc>
+    <loc>https://conorwilliams.github.io/mml/people/conor/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/granular/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/granular/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://conorwilliams.github.io/mml/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/codes/openfly/</loc>
+    <loc>https://conorwilliams.github.io/mml/codes/openfly/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/people/</loc>
+    <loc>https://conorwilliams.github.io/mml/tags/people/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/people/</loc>
+    <loc>https://conorwilliams.github.io/mml/people/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/charachterisation/</loc>
+    <loc>https://conorwilliams.github.io/mml/news/charachterisation/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/research/</loc>
+    <loc>https://conorwilliams.github.io/mml/tags/research/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://conorwilliams.github.io/mml/tags/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://conorwilliams.github.io/mml/categories/</loc>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://conorwilliams.github.io/mml/archives/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://conorwilliams.github.io/mml/search/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://conorwilliams.github.io/mml/series/</loc>
   </url>
 </urlset>

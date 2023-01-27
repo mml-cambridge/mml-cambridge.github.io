@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on MML</title>
-    <link>http://example.org/tags/</link>
+    <link>https://conorwilliams.github.io/mml/tags/</link>
     <description>Recent content in Tags on MML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilliams.github.io/mml/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>codes</title>
-      <link>http://example.org/tags/codes/</link>
+      <link>https://conorwilliams.github.io/mml/tags/codes/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/codes/</guid>
+      <guid>https://conorwilliams.github.io/mml/tags/codes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>people</title>
-      <link>http://example.org/tags/people/</link>
+      <link>https://conorwilliams.github.io/mml/tags/people/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/people/</guid>
+      <guid>https://conorwilliams.github.io/mml/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>http://example.org/tags/research/</link>
+      <link>https://conorwilliams.github.io/mml/tags/research/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/research/</guid>
+      <guid>https://conorwilliams.github.io/mml/tags/research/</guid>
       <description></description>
     </item>
     
