@@ -3,7 +3,7 @@
 *.a
 *.so
 
-content/posts
+content/posts/*.md
 
 .hugo_build.lock
 
