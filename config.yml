@@ -84,7 +84,7 @@ params:
       url: "index.xml"
 
   editPost:
-    URL: "https://github.com/ConorWilliams/mml/content"
+    URL: "https://github.com/ConorWilliams/mml/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
