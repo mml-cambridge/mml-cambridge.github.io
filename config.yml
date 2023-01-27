@@ -30,7 +30,7 @@ languages:
           url: search/
           weight: 30
         - name: Research | News
-          url: news/
+          url: research/
           weight: 2
         - name: People
           url: people/
