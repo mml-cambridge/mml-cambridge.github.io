@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//conorwilliams.github.io/mml/news/biomaterials/</loc>
+    <loc>//conorwilliams.github.io/mml/tmp/biomaterials/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//conorwilliams.github.io/mml/news/nanotubes/</loc>
+    <loc>//conorwilliams.github.io/mml/tmp/nanotubes/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/tags/codes/</loc>
@@ -14,22 +14,19 @@
     <loc>//conorwilliams.github.io/mml/codes/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//conorwilliams.github.io/mml/news/composite/</loc>
+    <loc>//conorwilliams.github.io/mml/tmp/composite/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//conorwilliams.github.io/mml/news/modelling/</loc>
+    <loc>//conorwilliams.github.io/mml/tmp/modelling/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/people/conor/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//conorwilliams.github.io/mml/news/granular/</loc>
+    <loc>//conorwilliams.github.io/mml/tmp/granular/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//conorwilliams.github.io/mml/news/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/codes/openfly/</loc>
@@ -41,13 +38,16 @@
     <loc>//conorwilliams.github.io/mml/people/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//conorwilliams.github.io/mml/news/charachterisation/</loc>
+    <loc>//conorwilliams.github.io/mml/tmp/charachterisation/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/tags/research/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/tags/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//conorwilliams.github.io/mml/tmp/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//conorwilliams.github.io/mml/posts/drexler2021/</loc>
