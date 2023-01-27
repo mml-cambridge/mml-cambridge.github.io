@@ -1,5 +1,5 @@
 ---
-title: "Archive"
+title: "Publications"
 layout: "archives"
 summary: "archives"
 ---

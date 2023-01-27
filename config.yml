@@ -28,20 +28,20 @@ languages:
       main:
         - name: Search
           url: search/
-          weight: 1
+          weight: 30
+        - name: Research | News
+          url: news/
+          weight: 2
         - name: People
           url: people/
-          weight: 5
-        - name: Publications
-          url: publications/
           weight: 5
         - name: Codes
           url: codes/
           weight: 10
         - name: Tags
           url: tags/
-          weight: 15
-        - name: Archive
+          weight: 25
+        - name: Publications
           url: archives/
           weight: 20
 
@@ -71,7 +71,10 @@ params:
   homeInfoParams:
     Title: "The Macromolecular Materials Laboratory"
     Content: >
-      Welcome to the Macromolecular Materials Laboratory's (MML) website.
+      Welcome to the Macromolecular Materials Laboratory's (MML) website. We arose from the group focusing on Polymers led by Alan Windle over 30 years ago and are now lead by James Elliott. 
+
+      While embracing some experimentation, our majour theme is computationally led. We study polymeric systems, as well as nano carbon, the latter applying multi scale modeling to understanding both the synthesis of carbon nanotubes, their assembly into materials and the resultant properties.
+
   socialIcons:
     - name: github
       url: "https://github.com/ConorWilliams"
