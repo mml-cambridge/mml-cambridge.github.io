@@ -52,7 +52,7 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema..
   description: "The Macromolecular Materials Laboratory (MML) is an association of research groups within the Department of Materials Science at Cambridge University."
   author: CJ
   defaultTheme: auto
