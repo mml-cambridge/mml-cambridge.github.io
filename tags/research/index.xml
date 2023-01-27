@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>research on MML</title>
+    <link>http://example.org/tags/research/</link>
+    <description>Recent content in research on MML</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biomaterials</title>
+      <link>http://example.org/news/biomaterials/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/biomaterials/</guid>
+      <description>Thoughts on bioinspired materials</description>
+    </item>
+    
+    <item>
+      <title>Carbon nanotubes</title>
+      <link>http://example.org/news/nanotubes/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/nanotubes/</guid>
+      <description>Thoughts on carbon nanotubes</description>
+    </item>
+    
+    <item>
+      <title>Composite materials</title>
+      <link>http://example.org/news/composite/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/composite/</guid>
+      <description>Thoughts on composites materials science</description>
+    </item>
+    
+    <item>
+      <title>Computational modelling</title>
+      <link>http://example.org/news/modelling/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/modelling/</guid>
+      <description>Thoughts on modelling in materials science</description>
+    </item>
+    
+    <item>
+      <title>Granular materials</title>
+      <link>http://example.org/news/granular/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/granular/</guid>
+      <description>Thoughts on granular materials</description>
+    </item>
+    
+    <item>
+      <title>Physical characterisation of nanomaterials</title>
+      <link>http://example.org/news/charachterisation/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/charachterisation/</guid>
+      <description>Characterisation equipment</description>
+    </item>
+    
+  </channel>
+</rss>
