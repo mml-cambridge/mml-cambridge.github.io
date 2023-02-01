@@ -67,6 +67,8 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowToc: false
   comments: false
+  cover:
+    linkFullImages: true
 
   homeInfoParams:
     Title: "The Macromolecular Materials Laboratory"

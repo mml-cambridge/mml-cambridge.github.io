@@ -4,6 +4,7 @@
 *.so
 
 content/posts/*.md
+resources/_gen
 
 .hugo_build.lock
 
