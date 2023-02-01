@@ -45,10 +45,19 @@
     
     <item>
       <title>Conor Williams PhD</title>
-      <link>//conorwilliams.github.io/mml/people/conor/</link>
+      <link>//conorwilliams.github.io/mml/people/conor-cover/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/people/conor/</guid>
+      <guid>//conorwilliams.github.io/mml/people/conor-cover/</guid>
+      <description>Surfing the sea of vowels 🌊</description>
+    </item>
+    
+    <item>
+      <title>Conor Williams PhD</title>
+      <link>//conorwilliams.github.io/mml/people/conor-inline/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/mml/people/conor-inline/</guid>
       <description>Surfing the sea of vowels 🌊</description>
     </item>
     
