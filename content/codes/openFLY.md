@@ -1,5 +1,5 @@
 ---
-author: "James"
+author: "Conor Williams"
 title: "OpenFLY"
 date: "2023-01-23"
 description: "The open framework for on-the-fly off-lattice kinetic Monte Carlo simulations."
