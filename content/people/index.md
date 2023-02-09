@@ -28,4 +28,4 @@ Before arriving at Cambridge, I completed an MSc in the study of Energy Systems 
 
 ### Jokūbas Pelanskis
 
-Hello! I started my PhD in 2022, my research focuses on mesoscale simulation of thin ionomer films using many-body dissipative particle dynamics. My project aims to improve our understanding of the catalyst layer, which is often manufactured from a thin layer of Nafion. Good understanding of the morphology might help to reduce the cost of the fuel cell by reducing the amount of expensive plattinum within the cell without sacrificing the effciency.
+Hellooo! I started my PhD in 2022, my research focuses on mesoscale simulation of thin ionomer films using many-body dissipative particle dynamics. My project aims to improve our understanding of the catalyst layer, which is often manufactured from a thin layer of Nafion. Good understanding of the morphology might help to reduce the cost of the fuel cell by reducing the amount of expensive plattinum within the cell without sacrificing the effciency.
