@@ -54,7 +54,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema..
   description: "The Macromolecular Materials Laboratory (MML) is an association of research groups within the Department of Materials Science at Cambridge University."
-  author: CJ
+  author: Webmaster
   defaultTheme: auto
   disableThemeToggle: false
   ShowShareButtons: false
@@ -78,12 +78,10 @@ params:
       While embracing some experimentation, our majour theme is computationally led. We study polymeric systems, as well as nano carbon, the latter applying multi scale modeling to understanding both the synthesis of carbon nanotubes, their assembly into materials and the resultant properties.
 
   socialIcons:
-    - name: github
-      url: "https://github.com/ConorWilliams"
-    - name: LinkedIn
-      url: "https://www.linkedin.com/company/the-macromolecular-materials-lab/"
     - name: Rss
       url: "index.xml"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/company/the-macromolecular-materials-lab/"
 
   editPost:
     URL: "https://github.com/ConorWilliams/mml/blob/main/content"
