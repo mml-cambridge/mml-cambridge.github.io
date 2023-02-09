@@ -1,12 +1,12 @@
 # MML Website
 
 
-## General
+Welcome to the MML's website source code, this page is intended for members of the MML to learn about editing the website.
 
-This is a static-website (meaning it is composed entirely of html and css). It is built by a program called [hugo](https://gohugo.io/) which transforms the content (formatted in markdown) into the html/css. As an initial primer you should read [the cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as an introduction to this mini-language.
-
+We have a static-website (meaning it is composed entirely of html and css). It is built by a program called [hugo](https://gohugo.io/) which transforms the content (formatted in markdown) into the html/css. As an initial primer you should read [the cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as an introduction to this mini-language.
 
 ## Maintaining the site
+
 
 ### Quick and dirty
 
@@ -33,10 +33,22 @@ If you want to make many edits and test what you're doing as you go, then you sh
 2. Fork (button in top right) the [mml repository](https://github.com/ConorWilliams/mml).
 3. Clone your fork i.e: ``git clone --recurse-submodules https://github.com/your_user_name/mml.git``. 
 4. Make your changes locally.
-5. Run ``hugo server`` from the top level of the repository.
-6. Navigate to the web address the server command tells you the site is available (e.g. ``//localhost:1313/mml/``).
-7. Make sure your changes are as-intended.
-8. Commit your changes ``git add -A`` then ``git commit -m"my awesome changes"``.
-9. Push your changes ``git push``.
-10. Follow steps 6-8 of quick-and-dirty method to submit a pull request.
+5. Run ``python pubs.py`` from the top level of the repository to populate the publications.
+6. Run ``hugo server`` from the top level of the repository.
+7. Navigate to the web address the server command tells you the site is available (e.g. ``//localhost:1313/mml/``).
+8. Make sure your changes are as-intended.
+9. Commit your changes ``git add -A`` then ``git commit -m"my awesome changes"``.
+10. Push your changes ``git push``.
+11. Follow steps 6-8 of quick-and-dirty method to submit a pull request.
 
+### TLDR - for people who just want to edit the content.
+
+Have a look inside the ``content/`` directory for examples of how to do anything e.g. add a new group member just extend ``content/people/index.md``.
+
+### In detail
+
+The site uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme which has extensive documentation. 
+
+### Publications
+
+The script ``pubs.py`` will populate ``content/posts`` with the data in ``pubs.bib``.

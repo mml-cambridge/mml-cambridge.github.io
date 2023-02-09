@@ -78,6 +78,8 @@ params:
       While embracing some experimentation, our majour theme is computationally led. We study polymeric systems, as well as nano carbon, the latter applying multi scale modeling to understanding both the synthesis of carbon nanotubes, their assembly into materials and the resultant properties.
 
   socialIcons:
+    - name: GitHub
+      url: "https://github.com/ConorWilliams/mml"
     - name: Rss
       url: "index.xml"
     - name: LinkedIn
