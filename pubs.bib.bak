@@ -1,0 +1,2059 @@
+@article{EcheverriRestrepo2020,
+  doi       = {10.1103/physrevmaterials.4.113601},
+  url       = {https://doi.org/10.1103/physrevmaterials.4.113601},
+  year      = {2020},
+  month     = nov,
+  publisher = {American Physical Society ({APS})},
+  volume    = {4},
+  number    = {11},
+  author    = {Sebasti{\'{a}}n Echeverri Restrepo and Henry Lambert and Anthony T. Paxton},
+  title     = {Effect of hydrogen on vacancy diffusion},
+  journal   = {Physical Review Materials}
+}
+
+@article{Mller2014,
+  doi       = {10.1088/0965-0393/22/4/045002},
+  url       = {https://doi.org/10.1088/0965-0393/22/4/045002},
+  year      = {2014},
+  month     = apr,
+  publisher = {{IOP} Publishing},
+  volume    = {22},
+  number    = {4},
+  pages     = {045002},
+  author    = {Johannes J M\"{o}ller and Erik Bitzek},
+  title     = {Comparative study of embedded atom potentials for atomistic simulations of fracture in$\upalpha$-iron},
+  journal   = {Modelling and Simulation in Materials Science and Engineering}
+}
+
+@article{Du2012,
+  doi       = {10.1103/physrevb.86.174110},
+  url       = {https://doi.org/10.1103/physrevb.86.174110},
+  year      = {2012},
+  month     = nov,
+  publisher = {American Physical Society ({APS})},
+  volume    = {86},
+  number    = {17},
+  author    = {Yaojun A. Du and Jutta Rogal and Ralf Drautz},
+  title     = {Diffusion of hydrogen within idealized grains of bcc Fe: A kinetic Monte Carlo study},
+  journal   = {Physical Review B}
+}
+
+@article{Tehranchi2016,
+  doi       = {10.1088/1361-651x/aa52cb},
+  url       = {https://doi.org/10.1088/1361-651x/aa52cb},
+  year      = {2016},
+  month     = dec,
+  publisher = {{IOP} Publishing},
+  volume    = {25},
+  number    = {2},
+  pages     = {025001},
+  author    = {A Tehranchi and X Zhang and G Lu and W A Curtin},
+  title     = {Hydrogen{\textendash}vacancy{\textendash}dislocation interactions in$\upalpha$-Fe},
+  journal   = {Modelling and Simulation in Materials Science and Engineering}
+}
+
+@article{Teus2016,
+  doi       = {10.15407/mfint.36.10.1399},
+  url       = {https://doi.org/10.15407/mfint.36.10.1399},
+  year      = {2016},
+  month     = sep,
+  publisher = {National Academy of Sciences of Ukraine (Co. {LTD} Ukrinformnauka)},
+  volume    = {36},
+  number    = {10},
+  pages     = {1399--1410},
+  author    = {S. M. Teus and V. G. Gavriljuk},
+  title     = {Grain-Boundary Diffusion of Hydrogen Atoms in the $\upalpha$-Iron},
+  journal   = {{METALLOFIZIKA} I {NOVEISHIE} {TEKHNOLOGII}}
+}
+
+@article{Wang2016,
+  doi       = {10.1016/j.actamat.2016.01.067},
+  url       = {https://doi.org/10.1016/j.actamat.2016.01.067},
+  year      = {2016},
+  month     = apr,
+  publisher = {Elsevier {BV}},
+  volume    = {107},
+  pages     = {279--288},
+  author    = {Shuai Wang and May L. Martin and Ian M. Robertson and Petros Sofronis},
+  title     = {Effect of hydrogen environment on the separation of Fe grain boundaries},
+  journal   = {Acta Materialia}
+}
+
+@article{Kimizuka2011,
+  doi       = {10.1103/physrevb.83.094110},
+  url       = {https://doi.org/10.1103/physrevb.83.094110},
+  year      = {2011},
+  month     = mar,
+  publisher = {American Physical Society ({APS})},
+  volume    = {83},
+  number    = {9},
+  author    = {Hajime Kimizuka and Hideki Mori and Shigenobu Ogata},
+  title     = {Effect of temperature on fast hydrogen diffusion in iron: A path-integral quantum dynamics approach},
+  journal   = {Physical Review B}
+}
+
+@article{Katzarov2013,
+  doi       = {10.1103/physrevb.88.054107},
+  url       = {https://doi.org/10.1103/physrevb.88.054107},
+  year      = {2013},
+  month     = aug,
+  publisher = {American Physical Society ({APS})},
+  volume    = {88},
+  number    = {5},
+  author    = {Ivaylo H. Katzarov and Dimitar L. Pashov and Anthony T. Paxton},
+  title     = {Fully quantum mechanical calculation of the diffusivity of hydrogen in iron using the tight-binding approximation and path integral theory},
+  journal   = {Physical Review B}
+}
+
+@article{Nazarov2010,
+  doi       = {10.1103/physrevb.82.224104},
+  url       = {https://doi.org/10.1103/physrevb.82.224104},
+  year      = {2010},
+  month     = dec,
+  publisher = {American Physical Society ({APS})},
+  volume    = {82},
+  number    = {22},
+  author    = {R. Nazarov and T. Hickel and J. Neugebauer},
+  title     = {First-principles study of the thermodynamics of hydrogen-vacancy interaction in fcc iron},
+  journal   = {Physical Review B}
+}
+
+@article{Hayward2013,
+  doi       = {10.1103/physrevb.87.174103},
+  url       = {https://doi.org/10.1103/physrevb.87.174103},
+  year      = {2013},
+  month     = may,
+  publisher = {American Physical Society ({APS})},
+  volume    = {87},
+  number    = {17},
+  author    = {Erin Hayward and Chu-Chun Fu},
+  title     = {Interplay between hydrogen and vacancies in$\upalpha$-Fe},
+  journal   = {Physical Review B}
+}
+
+@article{Counts2010,
+  doi       = {10.1016/j.actamat.2010.05.010},
+  url       = {https://doi.org/10.1016/j.actamat.2010.05.010},
+  year      = {2010},
+  month     = aug,
+  publisher = {Elsevier {BV}},
+  volume    = {58},
+  number    = {14},
+  pages     = {4730--4741},
+  author    = {W.A. Counts and C. Wolverton and R. Gibala},
+  title     = {First-principles energetics of hydrogen traps in $\upalpha$-Fe: Point defects},
+  journal   = {Acta Materialia}
+}
+
+@article{Sanchez2010,
+  doi       = {10.1103/physrevb.81.132102},
+  url       = {https://doi.org/10.1103/physrevb.81.132102},
+  year      = {2010},
+  month     = apr,
+  publisher = {American Physical Society ({APS})},
+  volume    = {81},
+  number    = {13},
+  author    = {J. Sanchez and J. Fullea and M. C. Andrade and P. L. de Andres},
+  title     = {Ab initiomolecular dynamics simulation of hydrogen diffusion in$\upalpha$-iron},
+  journal   = {Physical Review B}
+}
+
+@article{Orlitsky2016,
+  doi       = {10.1073/pnas.1607774113},
+  url       = {https://doi.org/10.1073/pnas.1607774113},
+  year      = {2016},
+  month     = nov,
+  publisher = {Proceedings of the National Academy of Sciences},
+  volume    = {113},
+  number    = {47},
+  pages     = {13283--13288},
+  author    = {Alon Orlitsky and Ananda Theertha Suresh and Yihong Wu},
+  title     = {Optimal prediction of the number of unseen species},
+  journal   = {Proceedings of the National Academy of Sciences}
+}
+
+@article{Wu2019,
+  doi       = {10.1214/17-aos1665},
+  url       = {https://doi.org/10.1214/17-aos1665},
+  year      = {2019},
+  month     = apr,
+  publisher = {Institute of Mathematical Statistics},
+  volume    = {47},
+  number    = {2},
+  author    = {Yihong Wu and Pengkun Yang},
+  title     = {Chebyshev polynomials,  moment matching,  and optimal estimation of the unseen},
+  journal   = {The Annals of Statistics}
+}
+
+@article{Wang2013,
+  doi       = {10.1007/s00500-013-1013-y},
+  url       = {https://doi.org/10.1007/s00500-013-1013-y},
+  year      = {2013},
+  month     = feb,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {17},
+  number    = {8},
+  pages     = {1439--1451},
+  author    = {Yan Wang},
+  title     = {Reliable kinetic Monte Carlo simulation based on random set sampling},
+  journal   = {Soft Computing}
+}
+
+@article{Nagumo2004,
+  doi       = {10.1179/026708304225019687},
+  url       = {https://doi.org/10.1179/026708304225019687},
+  year      = {2004},
+  month     = aug,
+  publisher = {Informa {UK} Limited},
+  volume    = {20},
+  number    = {8},
+  pages     = {940--950},
+  author    = {M. Nagumo},
+  title     = {Hydrogen related failure of steels {\textendash} a new aspect},
+  journal   = {Materials Science and Technology}
+}
+
+@article{Bak2016,
+  doi       = {10.3390/met6070169},
+  url       = {https://doi.org/10.3390/met6070169},
+  year      = {2016},
+  month     = jul,
+  publisher = {{MDPI} {AG}},
+  volume    = {6},
+  number    = {7},
+  pages     = {169},
+  author    = {Sang Bak and Muhammad Abro and Dong Lee},
+  title     = {Effect of Hydrogen and Strain-Induced Martensite on Mechanical Properties of {AISI} 304 Stainless Steel},
+  journal   = {Metals}
+}
+
+@article{Robertson2001,
+  doi       = {10.1016/s0013-7944(01)00011-x},
+  url       = {https://doi.org/10.1016/s0013-7944(01)00011-x},
+  year      = {2001},
+  month     = apr,
+  publisher = {Elsevier {BV}},
+  volume    = {68},
+  number    = {6},
+  pages     = {671--692},
+  author    = {I.M. Robertson},
+  title     = {The effect of hydrogen on dislocation dynamics},
+  journal   = {Engineering Fracture Mechanics}
+}
+
+@article{Ferreira1998,
+  doi       = {10.1016/s1359-6454(97)00349-2},
+  url       = {https://doi.org/10.1016/s1359-6454(97)00349-2},
+  year      = {1998},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {46},
+  number    = {5},
+  pages     = {1749--1757},
+  author    = {P.J. Ferreira and I.M. Robertson and H.K. Birnbaum},
+  title     = {Hydrogen effects on the interaction between dislocations},
+  journal   = {Acta Materialia}
+}
+
+@article{Lu2001,
+  doi       = {10.1103/physrevlett.87.095501},
+  url       = {https://doi.org/10.1103/physrevlett.87.095501},
+  year      = {2001},
+  month     = aug,
+  publisher = {American Physical Society ({APS})},
+  volume    = {87},
+  number    = {9},
+  author    = {Gang Lu and Qing Zhang and Nicholas Kioussis and Efthimios Kaxiras},
+  title     = {Hydrogen-Enhanced Local Plasticity in Aluminum: {AnAb} {InitioStudy}},
+  journal   = {Physical Review Letters}
+}
+
+@article{Birnbaum1994,
+  doi       = {10.1016/0921-5093(94)90975-x},
+  url       = {https://doi.org/10.1016/0921-5093(94)90975-x},
+  year      = {1994},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {176},
+  number    = {1-2},
+  pages     = {191--202},
+  author    = {H.K. Birnbaum and P. Sofronis},
+  title     = {Hydrogen-enhanced localized plasticity{\textemdash}a mechanism for hydrogen-related fracture},
+  journal   = {Materials Science and Engineering: A}
+}
+
+@article{Drexler2021,
+  doi       = {10.1016/j.scriptamat.2020.113697},
+  url       = {https://doi.org/10.1016/j.scriptamat.2020.113697},
+  year      = {2021},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {194},
+  pages     = {113697},
+  author    = {A. Drexler and S. He and R. Pippan and L. Romaner and V.I. Razumovskiy and W. Ecker},
+  title     = {Hydrogen segregation near a crack tip in nickel},
+  journal   = {Scripta Materialia}
+}
+
+@article{Lynch1979,
+  doi       = {10.1016/0036-9748(79)90202-3},
+  url       = {https://doi.org/10.1016/0036-9748(79)90202-3},
+  year      = {1979},
+  month     = nov,
+  publisher = {Elsevier {BV}},
+  volume    = {13},
+  number    = {11},
+  pages     = {1051--1056},
+  author    = {S.P. Lynch},
+  title     = {Hydrogen embrittlement and liquid-metal embrittlement in nickel single crystals},
+  journal   = {Scripta Metallurgica}
+}
+
+@article{Vehoff1980,
+  doi       = {10.1016/0001-6160(80)90161-3},
+  url       = {https://doi.org/10.1016/0001-6160(80)90161-3},
+  year      = {1980},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {28},
+  number    = {3},
+  pages     = {265--272},
+  author    = {H. Vehoff and P. Neumann},
+  title     = {Crack propagation and cleavage initiation in Fe-2.6{\%}-Si single crystals under controlled plastic crack tip opening rate in various gaseous environments},
+  journal   = {Acta Metallurgica}
+}
+
+@article{Gerberich1991,
+  doi       = {10.1080/01418619108204854},
+  url       = {https://doi.org/10.1080/01418619108204854},
+  year      = {1991},
+  month     = feb,
+  publisher = {Informa {UK} Limited},
+  volume    = {63},
+  number    = {2},
+  pages     = {363--376},
+  author    = {W. W. Gerberich and R. A. Oriani and M.-J. Lji and X. Chen and T. Foecke},
+  title     = {The necessity of both plasticity and brittleness in the fracture thresholds of iron},
+  journal   = {Philosophical Magazine A}
+}
+
+@article{Dear2017,
+  doi       = {10.1098/rsta.2017.0032},
+  url       = {https://doi.org/10.1098/rsta.2017.0032},
+  year      = {2017},
+  month     = jun,
+  publisher = {The Royal Society},
+  volume    = {375},
+  number    = {2098},
+  pages     = {20170032},
+  author    = {Felicity F. Dear and Guy C. G. Skinner},
+  title     = {Mechanisms of hydrogen embrittlement in steels: discussion},
+  journal   = {Philosophical Transactions of the Royal Society A: Mathematical,  Physical and Engineering Sciences}
+}
+
+@article{Kim2019,
+  doi       = {10.1016/j.jmrt.2019.07.030},
+  url       = {https://doi.org/10.1016/j.jmrt.2019.07.030},
+  year      = {2019},
+  month     = sep,
+  publisher = {Elsevier {BV}},
+  volume    = {8},
+  number    = {5},
+  pages     = {5036--5040},
+  author    = {Sung Jin Kim and Jae-Won Lee},
+  title     = {Metallurgical evidence of stress induced hydrogen diffusion and corresponding crack nucleation behaviors of high-strength ferritic steel used in sour environment},
+  journal   = {Journal of Materials Research and Technology}
+}
+
+@article{McNabb1963,
+  year      = {1963},
+  month     = jan,
+  publisher = {The American Institute of Mining, Metallurgical, and Petroleum Engineers {AIME}},
+  author    = {McNabb, A. and Foster, P. K.},
+  pages     = {10},
+  title     = {Institute of Metals Division - A New Analysis of the Diffusion of Hydrogen in Iron and Ferritic Steels},
+  journal   = {Materials}
+}
+
+@article{Kholtobina2020,
+  doi       = {10.3390/ma13102288},
+  url       = {https://doi.org/10.3390/ma13102288},
+  year      = {2020},
+  month     = may,
+  publisher = {{MDPI} {AG}},
+  volume    = {13},
+  number    = {10},
+  pages     = {2288},
+  author    = {Anastasiia S. Kholtobina and Reinhard Pippan and Lorenz Romaner and Daniel Scheiber and Werner Ecker and Vsevolod I. Razumovskiy},
+  title     = {Hydrogen Trapping in bcc Iron},
+  journal   = {Materials}
+}
+
+@article{Takahashi2012,
+  doi       = {10.1016/j.scriptamat.2012.04.022},
+  url       = {https://doi.org/10.1016/j.scriptamat.2012.04.022},
+  year      = {2012},
+  month     = jul,
+  publisher = {Elsevier {BV}},
+  volume    = {67},
+  number    = {2},
+  pages     = {213--216},
+  author    = {Jun Takahashi and Kazuto Kawakami and Toshimi Tarui},
+  title     = {Direct observation of hydrogen-trapping sites in vanadium carbide precipitation steel by atom probe tomography},
+  journal   = {Scripta Materialia}
+}
+
+@article{Raina2017,
+  doi       = {10.1098/rsta.2016.0409},
+  url       = {https://doi.org/10.1098/rsta.2016.0409},
+  year      = {2017},
+  month     = jun,
+  publisher = {The Royal Society},
+  volume    = {375},
+  number    = {2098},
+  pages     = {20160409},
+  author    = {A. Raina and V. S. Deshpande and N. A. Fleck},
+  title     = {Analysis of electro-permeation of hydrogen in metallic alloys},
+  journal   = {Philosophical Transactions of the Royal Society A: Mathematical,  Physical and Engineering Sciences}
+}
+
+@article{Raina2018,
+  doi       = {10.1016/j.actamat.2017.11.011},
+  url       = {https://doi.org/10.1016/j.actamat.2017.11.011},
+  year      = {2018},
+  month     = feb,
+  publisher = {Elsevier {BV}},
+  volume    = {144},
+  pages     = {777--785},
+  author    = {A. Raina and V.S. Deshpande and N.A. Fleck},
+  title     = {Analysis of thermal desorption of hydrogen in metallic alloys},
+  journal   = {Acta Materialia}
+}
+
+@article{Paxton2016,
+  doi       = {10.1016/j.actamat.2015.09.054},
+  url       = {https://doi.org/10.1016/j.actamat.2015.09.054},
+  year      = {2016},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {103},
+  pages     = {71--76},
+  author    = {Anthony T. Paxton and Ivaylo H. Katzarov},
+  title     = {Quantum and isotope effects on hydrogen diffusion,  trapping and escape in iron},
+  journal   = {Acta Materialia}
+}
+
+@incollection{Dou2017,
+  doi       = {10.1016/b978-0-12-811132-1.00010-9},
+  url       = {https://doi.org/10.1016/b978-0-12-811132-1.00010-9},
+  year      = {2017},
+  publisher = {Elsevier},
+  pages     = {277--305},
+  author    = {Yi Dou and Lu Sun and Jingzheng Ren and Liang Dong},
+  title     = {Opportunities and Future Challenges in Hydrogen Economy for Sustainable Development},
+  booktitle = {Hydrogen Economy}
+}
+
+@article{Lovicu2012,
+  doi       = {10.1007/s11661-012-1280-8},
+  url       = {https://doi.org/10.1007/s11661-012-1280-8},
+  year      = {2012},
+  month     = jun,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {43},
+  number    = {11},
+  pages     = {4075--4087},
+  author    = {Gianfranco Lovicu and Mauro Bottazzi and Fabio D'Aiuto and Massimo De Sanctis and Antonella Dimatteo and Ciro Santus and Renzo Valentini},
+  title     = {Hydrogen Embrittlement of Automotive Advanced High-Strength Steels},
+  journal   = {Metallurgical and Materials Transactions A}
+}
+
+@article{Reynolds1875,
+  doi       = {10.1016/0016-0032(75)90215-x},
+  url       = {https://doi.org/10.1016/0016-0032(75)90215-x},
+  year      = {1875},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {99},
+  number    = {1},
+  pages     = {70--72},
+  author    = {Osborne Reynolds},
+  title     = {On the effect of acid on the interior of iron wire},
+  journal   = {Journal of the Franklin Institute}
+}
+
+@article{JOHNSON1875,
+  doi       = {10.1038/011393a0},
+  url       = {https://doi.org/10.1038/011393a0},
+  year      = {1875},
+  month     = mar,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {11},
+  number    = {281},
+  pages     = {393--393},
+  author    = {WILLIAM H. JOHNSON},
+  title     = {On Some Remarkable Changes Produced in Iron and Steel by the Action of Hydrogen and Acids},
+  journal   = {Nature}
+}
+
+@article{Bayes1763,
+  doi       = {10.1098/rstl.1763.0053},
+  url       = {https://doi.org/10.1098/rstl.1763.0053},
+  year      = {1763},
+  month     = dec,
+  publisher = {The Royal Society},
+  volume    = {53},
+  pages     = {370--418},
+  title     = {{LII}. An essay towards solving a problem in the doctrine of chances.},
+  author    = {Bayes and Price},
+  journal   = {Philosophical Transactions of the Royal Society of London}
+}
+
+@article{Maiseli2017,
+  doi       = {10.1016/j.jvcir.2017.03.012},
+  url       = {https://doi.org/10.1016/j.jvcir.2017.03.012},
+  year      = {2017},
+  month     = jul,
+  publisher = {Elsevier {BV}},
+  volume    = {46},
+  pages     = {95--106},
+  author    = {Baraka Maiseli and Yanfeng Gu and Huijun Gao},
+  title     = {Recent developments and trends in point set registration methods},
+  journal   = {Journal of Visual Communication and Image Representation}
+}
+
+@article{Zhu2019,
+  doi       = {10.3390/s19051191},
+  url       = {https://doi.org/10.3390/s19051191},
+  year      = {2019},
+  month     = mar,
+  publisher = {{MDPI} {AG}},
+  volume    = {19},
+  number    = {5},
+  pages     = {1191},
+  author    = {Hao Zhu and Bin Guo and Ke Zou and Yongfu Li and Ka-Veng Yuen and Lyudmila Mihaylova and Henry Leung},
+  title     = {A Review of Point Set Registration: From Pairwise Registration to Groupwise Registration},
+  journal   = {Sensors}
+}
+
+@article{Zhang2000,
+  doi       = {10.1109/34.888718},
+  url       = {https://doi.org/10.1109/34.888718},
+  year      = {2000},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume    = {22},
+  number    = {11},
+  pages     = {1330--1334},
+  author    = {Z. Zhang},
+  title     = {A flexible new technique for camera calibration},
+  journal   = {{IEEE} Transactions on Pattern Analysis and Machine Intelligence}
+}
+
+@article{Schnemann1966,
+  doi       = {10.1007/bf02289451},
+  url       = {https://doi.org/10.1007/bf02289451},
+  year      = {1966},
+  month     = mar,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {31},
+  number    = {1},
+  pages     = {1--10},
+  author    = {Peter H. Sch\"{o}nemann},
+  title     = {A generalized solution of the orthogonal procrustes problem},
+  journal   = {Psychometrika}
+}
+
+@article{Li2015,
+  doi       = {10.1016/j.ijplas.2015.05.017},
+  url       = {https://doi.org/10.1016/j.ijplas.2015.05.017},
+  year      = {2015},
+  month     = nov,
+  publisher = {Elsevier {BV}},
+  volume    = {74},
+  pages     = {175--191},
+  author    = {Suzhi Li and Yonggang Li and Yu-Chieh Lo and Thirumalai Neeraj and Rajagopalan Srinivasan and Xiangdong Ding and Jun Sun and Liang Qi and Peter Gumbsch and Ju Li},
+  title     = {The interaction of dislocations and hydrogen-vacancy complexes and its importance for deformation-induced proto nano-voids formation in $\upalpha$-Fe},
+  journal   = {International Journal of Plasticity}
+}
+
+@article{Yu2017,
+  doi       = {10.3934/dcdsb.2020139},
+  url       = {https://doi.org/10.3934/dcdsb.2020139},
+  year      = {2017},
+  publisher = {American Institute of Mathematical Sciences ({AIMS})},
+  volume    = {22},
+  number    = {11},
+  author    = {Bing Yu and Lei Zhang},
+  title     = {Global optimization-based dimer method for finding saddle points},
+  journal   = {Discrete {\&} Continuous Dynamical Systems - B}
+}
+
+@article{Yin2019,
+  doi       = {10.1137/19m1253356},
+  url       = {https://doi.org/10.1137/19m1253356},
+  year      = {2019},
+  month     = jan,
+  publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+  volume    = {41},
+  number    = {6},
+  pages     = {A3576--A3595},
+  author    = {Jianyuan Yin and Lei Zhang and Pingwen Zhang},
+  title     = {High-Index Optimization-Based Shrinking Dimer Method for Finding High-Index Saddle Points},
+  journal   = {{SIAM} Journal on Scientific Computing}
+}
+
+
+
+@article{Zhang2016,
+  doi       = {10.1137/140972676},
+  url       = {https://doi.org/10.1137/140972676},
+  year      = {2016},
+  month     = jan,
+  publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+  volume    = {38},
+  number    = {1},
+  pages     = {A528--A544},
+  author    = {Lei Zhang and Qiang Du and Zhenzhen Zheng},
+  title     = {Optimization-based Shrinking Dimer Method for Finding Transition States},
+  journal   = {{SIAM} Journal on Scientific Computing}
+}
+
+@article{Xu2015,
+  doi       = {10.1016/j.commatsci.2014.12.026},
+  url       = {https://doi.org/10.1016/j.commatsci.2014.12.026},
+  year      = {2015},
+  month     = apr,
+  publisher = {Elsevier {BV}},
+  volume    = {100},
+  pages     = {135--143},
+  author    = {Haixuan Xu and Roger E. Stoller and Laurent K. B{\'{e}}land and Yuri N. Osetsky},
+  title     = {Self-Evolving Atomistic Kinetic Monte Carlo simulations of defects in materials},
+  journal   = {Computational Materials Science}
+}
+
+@article{Xu2011,
+  doi       = {10.1103/physrevb.84.132103},
+  url       = {https://doi.org/10.1103/physrevb.84.132103},
+  year      = {2011},
+  month     = oct,
+  publisher = {American Physical Society ({APS})},
+  volume    = {84},
+  number    = {13},
+  author    = {Haixuan Xu and Yury N. Osetsky and Roger E. Stoller},
+  title     = {Simulating complex atomistic processes: On-the-fly kinetic Monte Carlo scheme with selective active volumes},
+  journal   = {Physical Review B}
+}
+
+@article{Xu2012,
+  doi       = {10.1088/0953-8984/24/37/375402},
+  url       = {https://doi.org/10.1088/0953-8984/24/37/375402},
+  year      = {2012},
+  month     = aug,
+  publisher = {{IOP} Publishing},
+  volume    = {24},
+  number    = {37},
+  pages     = {375402},
+  author    = {Haixuan Xu and Yuri N Osetsky and Roger E Stoller},
+  title     = {Self-evolving atomistic kinetic Monte Carlo: fundamentals and applications},
+  journal   = {Journal of Physics: Condensed Matter}
+}
+
+@article{Latz2012,
+  doi       = {10.1088/0953-8984/24/48/485005},
+  url       = {https://doi.org/10.1088%2F0953-8984%2F24%2F48%2F485005},
+  year      = 2012,
+  month     = {oct},
+  publisher = {{IOP} Publishing},
+  volume    = {24},
+  number    = {48},
+  pages     = {485005},
+  author    = {Andreas Latz and Lothar Brendel and Dietrich E Wolf},
+  title     = {A three-dimensional self-learning kinetic Monte Carlo model: application to Ag(111)},
+  journal   = {Journal of Physics: Condensed Matter}
+}
+
+@article{Shah2012,
+  doi       = {10.1088/0953-8984/24/35/354004},
+  url       = {https://doi.org/10.1088%2F0953-8984%2F24%2F35%2F354004},
+  year      = 2012,
+  month     = aug,
+  publisher = {{IOP} Publishing},
+  volume    = {24},
+  number    = {35},
+  pages     = {354004},
+  author    = {Syed Islamuddin Shah and Giridhar Nandipati and Abdelkader Kara and Talat S Rahman},
+  title     = {Extended pattern recognition scheme for self-learning kinetic Monte Carlo simulations},
+  journal   = {Journal of Physics: Condensed Matter}
+}
+
+
+@article{Nandipati2012,
+  doi       = {10.1016/j.jcp.2011.12.029},
+  url       = {https://doi.org/10.1016/j.jcp.2011.12.029},
+  year      = {2012},
+  month     = may,
+  publisher = {Elsevier {BV}},
+  volume    = {231},
+  number    = {9},
+  pages     = {3548--3560},
+  author    = {Giridhar Nandipati and Abdelkader Kara and Syed Islamuddin Shah and Talat S. Rahman},
+  title     = {Off-lattice pattern recognition scheme for kinetic Monte Carlo simulations},
+  journal   = {Journal of Computational Physics}
+}
+
+@article{Bland2015,
+  doi       = {10.1016/j.commatsci.2014.12.001},
+  url       = {https://doi.org/10.1016/j.commatsci.2014.12.001},
+  year      = {2015},
+  month     = apr,
+  publisher = {Elsevier {BV}},
+  volume    = {100},
+  pages     = {124--134},
+  author    = {Laurent Karim B{\'{e}}land and Yuri N. Osetsky and Roger E. Stoller and Haixuan Xu},
+  title     = {Kinetic Activation{\textendash}Relaxation Technique and Self-Evolving Atomistic Kinetic Monte Carlo: Comparison of on-the-fly Kinetic Monte Carlo algorithms},
+  journal   = {Computational Materials Science}
+}
+
+@article{Ramasubramaniam2008,
+  doi       = {10.1557/jmr.2008.0340},
+  url       = {https://doi.org/10.1557/jmr.2008.0340},
+  year      = {2008},
+  month     = oct,
+  publisher = {Cambridge University Press ({CUP})},
+  volume    = {23},
+  number    = {10},
+  pages     = {2757--2773},
+  author    = {A. Ramasubramaniam and M. Itakura and M. Ortiz and E.A. Carter},
+  title     = {Effect of atomic scale plasticity on hydrogen diffusion in iron: Quantum mechanically informed and on-the-fly kinetic Monte Carlo simulations},
+  journal   = {Journal of Materials Research}
+}
+
+@article{Alexander2016,
+  doi       = {10.1088/0965-0393/24/6/065014},
+  url       = {https://doi.org/10.1088/0965-0393/24/6/065014},
+  year      = {2016},
+  month     = aug,
+  publisher = {{IOP} Publishing},
+  volume    = {24},
+  number    = {6},
+  pages     = {065014},
+  author    = {Kathleen C Alexander and Christopher A Schuh},
+  title     = {Towards the reliable calculation of residence time for off-lattice kinetic Monte Carlo simulations},
+  journal   = {Modelling and Simulation in Materials Science and Engineering}
+}
+
+@article{Ruzayqat2017,
+  doi       = {10.1021/acs.jctc.7b00974},
+  url       = {https://doi.org/10.1021/acs.jctc.7b00974},
+  year      = {2017},
+  month     = dec,
+  publisher = {American Chemical Society ({ACS})},
+  volume    = {14},
+  number    = {1},
+  pages     = {48--54},
+  author    = {Hamza M. Ruzayqat and Tim P. Schulze},
+  title     = {A Rejection Scheme for Off-Lattice Kinetic Monte Carlo Simulation},
+  journal   = {Journal of Chemical Theory and Computation}
+}
+
+@article{Xu2020,
+  doi       = {10.1016/j.ces.2020.115746},
+  url       = {https://doi.org/10.1016/j.ces.2020.115746},
+  year      = {2020},
+  month     = oct,
+  publisher = {Elsevier {BV}},
+  volume    = {224},
+  pages     = {115746},
+  author    = {Lijun Xu and Frank X.X. Zhu},
+  title     = {A new way to develop reaction network automatically via {DFT}-based adaptive kinetic Monte Carlo},
+  journal   = {Chemical Engineering Science}
+}
+
+@article{Bhute2013,
+  doi       = {10.1063/1.4812319},
+  url       = {https://doi.org/10.1063/1.4812319},
+  year      = {2013},
+  month     = jun,
+  publisher = {{AIP} Publishing},
+  volume    = {138},
+  number    = {24},
+  pages     = {244112},
+  author    = {Vijesh J. Bhute and Abhijit Chatterjee},
+  title     = {Building a kinetic Monte Carlo model with a chosen accuracy},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Chatterjee2018,
+  doi       = {10.1557/mrc.2018.93},
+  url       = {https://doi.org/10.1557/mrc.2018.93},
+  year      = {2018},
+  month     = may,
+  publisher = {Cambridge University Press ({CUP})},
+  volume    = {8},
+  number    = {03},
+  pages     = {850--857},
+  author    = {Abhijit Chatterjee},
+  title     = {Uncertainty quantification of Kinetic Monte Carlo models constructed on-the-fly using molecular dynamics},
+  journal   = {{MRS} Communications}
+}
+
+@article{Xu2008,
+  doi       = {10.1063/1.2976010},
+  url       = {https://doi.org/10.1063/1.2976010},
+  year      = {2008},
+  month     = sep,
+  publisher = {{AIP} Publishing},
+  volume    = {129},
+  number    = {11},
+  pages     = {114104},
+  author    = {Lijun Xu and Graeme Henkelman},
+  title     = {Adaptive kinetic Monte Carlo for first-principles accelerated dynamics},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Chill2014,
+  doi       = {10.1063/1.4880721},
+  url       = {https://doi.org/10.1063/1.4880721},
+  year      = {2014},
+  month     = jun,
+  publisher = {{AIP} Publishing},
+  volume    = {140},
+  number    = {21},
+  pages     = {214110},
+  author    = {Samuel T. Chill and Graeme Henkelman},
+  title     = {Molecular dynamics saddle search adaptive kinetic Monte Carlo},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Konwar2011,
+  doi       = {10.1063/1.3657834},
+  url       = {https://doi.org/10.1063/1.3657834},
+  year      = {2011},
+  month     = nov,
+  publisher = {{AIP} Publishing},
+  volume    = {135},
+  number    = {17},
+  pages     = {174103},
+  author    = {Dhrubajit Konwar and Vijesh J. Bhute and Abhijit Chatterjee},
+  title     = {An off-lattice,  self-learning kinetic Monte Carlo method using local environments},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@inproceedings{Juneja2016,
+  doi       = {10.1109/iccccm.2016.7918233},
+  url       = {https://doi.org/10.1109/iccccm.2016.7918233},
+  year      = {2016},
+  month     = oct,
+  publisher = {{IEEE}},
+  author    = {Mudita Juneja and S. K. Nagar},
+  title     = {Particle swarm optimization algorithm and its parameters: A review},
+  booktitle = {2016 International Conference on Control,  Computing,  Communication and Materials ({ICCCCM})}
+}
+
+@incollection{Benzi2008,
+  doi       = {10.1007/978-3-540-78841-6_10},
+  url       = {https://doi.org/10.1007/978-3-540-78841-6_10},
+  year      = {2008},
+  publisher = {Springer Berlin Heidelberg},
+  pages     = {195--211},
+  author    = {Michele Benzi and Andrew J. Wathen},
+  title     = {Some Preconditioning Techniques for Saddle Point Problems},
+  booktitle = {Mathematics in Industry}
+}
+
+@article{Mones2018,
+  doi       = {10.1038/s41598-018-32105-x},
+  url       = {https://doi.org/10.1038/s41598-018-32105-x},
+  year      = {2018},
+  month     = sep,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {8},
+  number    = {1},
+  author    = {Letif Mones and Christoph Ortner and G{\'{a}}bor Cs{\'{a}}nyi},
+  title     = {Preconditioners for the geometry optimisation and saddle point search of molecular systems},
+  journal   = {Scientific Reports}
+}
+
+@article{Pfeil1926,
+  doi       = {10.1098/rspa.1926.0103},
+  url       = {https://doi.org/10.1098/rspa.1926.0103},
+  year      = {1926},
+  month     = aug,
+  publisher = {The Royal Society},
+  volume    = {112},
+  number    = {760},
+  author    = {Leonard Bessemer Pfeil},
+  pages     = {182--195},
+  title     = {The effect of occluded hydrogen on the tensile strength of iron},
+  journal   = {Proceedings of the Royal Society of London. Series A,  Containing Papers of a Mathematical and Physical Character}
+}
+
+@article{Mirzaev2013,
+  doi       = {10.1080/00268976.2013.861087},
+  url       = {https://doi.org/10.1080/00268976.2013.861087},
+  year      = {2013},
+  month     = nov,
+  publisher = {Informa {UK} Limited},
+  volume    = {112},
+  number    = {13},
+  pages     = {1745--1754},
+  author    = {D.A. Mirzaev and A.A. Mirzoev and K.Yu. Okishev and A.V. Verkhovykh},
+  title     = {Hydrogen{\textendash}vacancy interaction in bcc iron:ab initiocalculations and thermodynamics},
+  journal   = {Molecular Physics}
+}
+
+@book{fukai2005the,
+  author    = {Fukai, Yuh},
+  title     = {The metal-hydrogen system: basic bulk properties},
+  publisher = {Springer},
+  year      = {2005},
+  address   = {Berlin New York},
+  isbn      = {978-3-540-28883-1}
+}
+
+@article{Jiang2004,
+  doi       = {10.1103/physrevb.70.064102},
+  url       = {https://doi.org/10.1103/physrevb.70.064102},
+  year      = {2004},
+  month     = aug,
+  publisher = {American Physical Society ({APS})},
+  volume    = {70},
+  number    = {6},
+  author    = {D. E. Jiang and Emily A. Carter},
+  title     = {Diffusion of interstitial hydrogen into and through bcc Fe from first principles},
+  journal   = {Physical Review B}
+}
+
+@article{Feibelman1990,
+  doi       = {10.1103/physrevlett.65.729},
+  url       = {https://doi.org/10.1103/physrevlett.65.729},
+  year      = {1990},
+  month     = aug,
+  publisher = {American Physical Society ({APS})},
+  volume    = {65},
+  number    = {6},
+  pages     = {729--732},
+  author    = {Peter J. Feibelman},
+  title     = {Diffusion path for an Al adatom on Al(001)},
+  journal   = {Physical Review Letters}
+}
+
+
+@article{Pedersen2010,
+  doi       = {10.1016/j.matcom.2009.02.010},
+  url       = {https://doi.org/10.1016/j.matcom.2009.02.010},
+  year      = {2010},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {80},
+  number    = {7},
+  pages     = {1487--1498},
+  author    = {Andreas Pedersen and Hannes J{\'{o}}nsson},
+  title     = {Distributed implementation of the adaptive kinetic Monte Carlo method},
+  journal   = {Mathematics and Computers in Simulation}
+}
+
+@article{Puchala2010,
+  doi       = {10.1063/1.3369627},
+  url       = {https://doi.org/10.1063/1.3369627},
+  year      = {2010},
+  month     = apr,
+  publisher = {{AIP} Publishing},
+  volume    = {132},
+  number    = {13},
+  pages     = {134104},
+  author    = {Brian Puchala and Michael L. Falk and Krishna Garikipati},
+  title     = {An energy basin finding algorithm for kinetic Monte Carlo acceleration},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Nazarov2014,
+  doi       = {10.1103/physrevb.89.144108},
+  url       = {https://doi.org/10.1103/physrevb.89.144108},
+  year      = {2014},
+  month     = apr,
+  publisher = {American Physical Society ({APS})},
+  volume    = {89},
+  number    = {14},
+  author    = {R. Nazarov and T. Hickel and J. Neugebauer},
+  title     = {Ab initiostudy of H-vacancy interactions in fcc metals: Implications for the formation of superabundant vacancies},
+  journal   = {Physical Review B}
+}
+
+@article{McLellan1997,
+  doi       = {10.1016/s1359-6462(97)00015-8},
+  url       = {https://doi.org/10.1016/s1359-6462(97)00015-8},
+  year      = {1997},
+  month     = may,
+  publisher = {Elsevier {BV}},
+  volume    = {36},
+  number    = {10},
+  pages     = {1201--1205},
+  author    = {R.B. McLellan and Z.R. Xu},
+  title     = {Hydrogen-induced vacancies in the iron lattice},
+  journal   = {Scripta Materialia}
+}
+
+@article{SAKAKI2006,
+  doi       = {10.1016/j.scriptamat.2006.08.030},
+  url       = {https://doi.org/10.1016/j.scriptamat.2006.08.030},
+  year      = {2006},
+  month     = dec,
+  publisher = {Elsevier {BV}},
+  volume    = {55},
+  number    = {11},
+  pages     = {1031--1034},
+  author    = {K SAKAKI and T KAWASE and M HIRATO and M MIZUNO and H ARAKI and Y SHIRAI and M NAGUMO},
+  title     = {The effect of hydrogen on vacancy generation in iron by plastic deformation},
+  journal   = {Scripta Materialia}
+}
+
+@article{Oriani1970,
+  doi       = {10.1016/0001-6160(70)90078-7},
+  url       = {https://doi.org/10.1016/0001-6160(70)90078-7},
+  year      = {1970},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {18},
+  number    = {1},
+  pages     = {147--157},
+  author    = {R.A Oriani},
+  title     = {The diffusion and trapping of hydrogen in steel},
+  journal   = {Acta Metallurgica}
+}
+
+
+@article{Yang2018,
+  doi       = {10.1016/j.jcp.2018.01.015},
+  url       = {https://doi.org/10.1016/j.jcp.2018.01.015},
+  year      = {2018},
+  month     = apr,
+  publisher = {Elsevier {BV}},
+  volume    = {359},
+  pages     = {352--360},
+  author    = {Lin Yang and Feng Zhang and Cai-Zhuang Wang and Kai-Ming Ho and Alex Travesset},
+  title     = {Implementation of metal-friendly {EAM}/{FS}-type semi-empirical potentials in {HOOMD}-blue: A {GPU}-accelerated molecular dynamics software},
+  journal   = {Journal of Computational Physics}
+}
+
+@article{Becquart2010,
+  doi       = {10.1002/pssb.200945251},
+  url       = {https://doi.org/10.1002/pssb.200945251},
+  year      = {2010},
+  month     = jan,
+  publisher = {Wiley},
+  volume    = {247},
+  number    = {1},
+  pages     = {9--22},
+  author    = {C. S. Becquart and C. Domain},
+  title     = {Introducing chemistry in atomistic kinetic Monte Carlo simulations of Fe alloys under irradiation},
+  journal   = {physica status solidi (b)}
+}
+
+@article{Rao1985,
+  doi       = {10.1103/physrevb.31.6726},
+  url       = {https://doi.org/10.1103/physrevb.31.6726},
+  year      = {1985},
+  month     = may,
+  publisher = {American Physical Society ({APS})},
+  volume    = {31},
+  number    = {10},
+  pages     = {6726--6730},
+  author    = {B. K. Rao and P. Jena},
+  title     = {Switendick criterion for stable hydrides},
+  journal   = {Physical Review B}
+}
+
+@article{Pascuet2011,
+  doi       = {10.1016/j.jnucmat.2011.02.038},
+  url       = {https://doi.org/10.1016/j.jnucmat.2011.02.038},
+  year      = {2011},
+  month     = may,
+  publisher = {Elsevier {BV}},
+  volume    = {412},
+  number    = {1},
+  pages     = {106--115},
+  author    = {M.I. Pascuet and N. Castin and C.S. Becquart and L. Malerba},
+  title     = {Stability and mobility of Cu{\textendash}vacancy clusters in Fe{\textendash}Cu alloys: A computational study based on the use of artificial neural networks for energy barrier calculations},
+  journal   = {Journal of Nuclear Materials}
+}
+
+@article{Djurabekova2007,
+  doi       = {10.1016/j.nimb.2006.11.009},
+  url       = {https://doi.org/10.1016/j.nimb.2006.11.009},
+  year      = {2007},
+  month     = feb,
+  publisher = {Elsevier {BV}},
+  volume    = {255},
+  number    = {1},
+  pages     = {47--51},
+  author    = {F.G. Djurabekova and L. Malerba and C. Domain and C.S. Becquart},
+  title     = {Stability and mobility of small vacancy and copper-vacancy clusters in bcc-Fe: An atomistic kinetic Monte Carlo study},
+  journal   = {Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms}
+}
+
+@article{Djurabekova2010,
+  doi       = {10.1080/14786431003662515},
+  url       = {https://doi.org/10.1080/14786431003662515},
+  year      = {2010},
+  month     = jul,
+  publisher = {Informa {UK} Limited},
+  volume    = {90},
+  number    = {19},
+  pages     = {2585--2595},
+  author    = {F. Djurabekova and L. Malerba and R.C. Pasianot and P. Olsson and K. Nordlund},
+  title     = {Kinetics versus thermodynamics in materials modeling: The case of the di-vacancy in iron},
+  journal   = {Philosophical Magazine}
+}
+
+@article{Fu2004,
+  doi       = {10.1038/nmat1286},
+  url       = {https://doi.org/10.1038/nmat1286},
+  year      = {2004},
+  month     = dec,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {4},
+  number    = {1},
+  pages     = {68--74},
+  author    = {Chu-Chun Fu and Jacques Dalla Torre and Fran{\c{c}}ois Willaime and Jean-Louis Bocquet and Alain Barbu},
+  title     = {Multiscale modelling of defect kinetics in irradiated iron},
+  journal   = {Nature Materials}
+}
+
+@article{Messina2015,
+  doi       = {10.1016/j.nimb.2014.12.032},
+  url       = {https://doi.org/10.1016/j.nimb.2014.12.032},
+  year      = {2015},
+  month     = jun,
+  publisher = {Elsevier {BV}},
+  volume    = {352},
+  pages     = {61--66},
+  author    = {Luca Messina and Lorenzo Malerba and P\"{a}r Olsson},
+  title     = {Stability and mobility of small vacancy{\textendash}solute complexes in Fe{\textendash}{MnNi} and dilute Fe{\textendash}X alloys: A kinetic Monte Carlo study},
+  journal   = {Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms}
+}
+
+@article{Pea1999,
+  doi       = {10.1016/s0167-8655(99)00069-0},
+  url       = {https://doi.org/10.1016/s0167-8655(99)00069-0},
+  year      = {1999},
+  month     = oct,
+  publisher = {Elsevier {BV}},
+  volume    = {20},
+  number    = {10},
+  pages     = {1027--1040},
+  author    = {J.M Pe{\~{n}}a and J.A Lozano and P Larra{\~{n}}aga},
+  title     = {An empirical comparison of four initialization methods for the K-Means algorithm},
+  journal   = {Pattern Recognition Letters}
+}
+
+@book{ahlberg2016,
+  author    = {Ahlberg, J. H.},
+  title     = {The Theory of Splines and Their Applications : Mathematics in Science and Engineering: A Series of Monographs and Textbooks, Vol. 38},
+  publisher = {Elsevier Science},
+  year      = {2016},
+  address   = {Saint Louis},
+  isbn      = {9781483222950}
+}
+
+@article{Plimpton1995,
+  doi       = {10.1006/jcph.1995.1039},
+  url       = {https://doi.org/10.1006/jcph.1995.1039},
+  year      = {1995},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {117},
+  number    = {1},
+  pages     = {1--19},
+  author    = {Steve Plimpton},
+  title     = {Fast Parallel Algorithms for Short-Range Molecular Dynamics},
+  journal   = {Journal of Computational Physics}
+}
+
+
+@article{Hagi1979,
+  doi       = {10.2320/matertrans1960.20.349},
+  url       = {https://doi.org/10.2320/matertrans1960.20.349},
+  year      = {1979},
+  publisher = {Japan Institute of Metals},
+  volume    = {20},
+  number    = {7},
+  pages     = {349--357},
+  author    = {Hideki Hagi and Yasunori Hayashi and Namio Ohtani},
+  title     = {Diffusion Coefficient of Hydrogen in Pure Iron between 230 and 300 K},
+  journal   = {Transactions of the Japan Institute of Metals}
+}
+
+
+@book{Arfken1985,
+  added-at  = {2013-03-22T02:46:59.000+0100},
+  address   = {San Diego},
+  annote    = {First edition published in 1967.},
+  author    = {Arfken, George},
+  biburl    = {https://www.bibsonomy.org/bibtex/206a7a290f700ffb0ec221872f672f5ae/drmatusek},
+  edition   = {Third},
+  interhash = {3892ff92c99fc6b30457216863fb6b22},
+  intrahash = {06a7a290f700ffb0ec221872f672f5ae},
+  keywords  = {ODEs analysis complex functional mathematics matrix mechanics physics quantum},
+  publisher = {Academic Press, {Inc.}},
+  timestamp = {2014-11-16T04:53:12.000+0100},
+  title     = {Mathematical Methods for Physicists},
+  year      = 1985
+}
+
+
+@article{FORTIN1996,
+  doi       = {10.7939/R3SX64C5K},
+  url       = {https://era.library.ualberta.ca/items/f8153faa-71bf-4b64-9eb4-f0c6d3b529dd},
+  author    = {Fortin,  Scott},
+  title     = {The Graph Isomorphism Problem},
+  publisher = {University of Alberta Libraries},
+  year      = {1996}
+}
+
+@article{SantAnna2016,
+  doi       = {10.1590/1980-5373-mr-2016-0039},
+  url       = {https://doi.org/10.1590/1980-5373-mr-2016-0039},
+  year      = {2016},
+  month     = aug,
+  publisher = {{FapUNIFESP} ({SciELO})},
+  volume    = {19},
+  number    = {5},
+  pages     = {1088--1097},
+  author    = {Alexandre Magno de Souza Sant{\textquotesingle}Anna and Ivan Napole{\~{a}}o Bastos and Jo{\~{a}}o Marcos Alcoforado Rebello and Maria P. Cindra Fonseca},
+  title     = {Influence of Hydrogenation on Residual Stresses of Pipeline Steel Welded Joints},
+  journal   = {Materials Research}
+}
+
+@article{Barrera2018,
+  doi       = {10.1007/s10853-017-1978-5},
+  url       = {https://doi.org/10.1007/s10853-017-1978-5},
+  year      = {2018},
+  month     = feb,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {53},
+  number    = {9},
+  pages     = {6251--6290},
+  author    = {O. Barrera and D. Bomba\v{c} and Y. Chen and T. D. Daff and E. Galindo-Nava and P. Gong and D. Haley and R. Horton and I. Katzarov and J. R. Kermode and C. Liverani and M. Stopher and F. Sweeney},
+  title     = {Understanding and mitigating hydrogen embrittlement of steels: a review of experimental,  modelling and design progress from atomistic to continuum},
+  journal   = {Journal of Materials Science}
+}
+
+@book{Shohoji2013,
+  author    = {Shohoji, Nobumitsu},
+  title     = {Interstitial Non-stoichiometric Compounds Statistical Thermodynamic Approach to Interstitial Non-stoichiometric Compounds; Hydride, Carbide, Nitride, Phosphide, Sulfide},
+  publisher = {LAP LAMBERT Academic Publishing},
+  year      = {2013},
+  address   = {Saarbrücken},
+  isbn      = {978-3-659-45506-3}
+}
+
+@incollection{Glover1998,
+  doi       = {10.1007/978-1-4613-0303-9_33},
+  url       = {https://doi.org/10.1007/978-1-4613-0303-9_33},
+  year      = {1998},
+  publisher = {Springer {US}},
+  pages     = {2093--2229},
+  author    = {Fred Glover and Manuel Laguna},
+  title     = {Tabu Search},
+  booktitle = {Handbook of Combinatorial Optimization}
+}
+
+@article{Bland2011,
+  doi       = {10.1103/physreve.84.046704},
+  url       = {https://doi.org/10.1103/physreve.84.046704},
+  year      = {2011},
+  month     = oct,
+  publisher = {American Physical Society ({APS})},
+  volume    = {84},
+  number    = {4},
+  author    = {Laurent Karim B{\'{e}}land and Peter Brommer and Fedwa El-Mellouhi and Jean-Fran{\c{c}}ois Joly and Normand Mousseau},
+  title     = {Kinetic activation-relaxation technique},
+  journal   = {Physical Review E}
+}
+
+@article{Fichthorn2013,
+  doi       = {10.1063/1.4801869},
+  url       = {https://doi.org/10.1063/1.4801869},
+  year      = {2013},
+  month     = apr,
+  publisher = {{AIP} Publishing},
+  volume    = {138},
+  number    = {16},
+  pages     = {164104},
+  author    = {Kristen A. Fichthorn and Yangzheng Lin},
+  title     = {A local superbasin kinetic Monte Carlo method},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Trochet2017,
+  doi       = {10.1063/1.4995426},
+  url       = {https://doi.org/10.1063/1.4995426},
+  year      = {2017},
+  month     = oct,
+  publisher = {{AIP} Publishing},
+  volume    = {147},
+  number    = {15},
+  pages     = {152712},
+  author    = {Mickaël Trochet and Alecsandre Sauv{\'{e}}-Lacoursi{\`{e}}re and Normand Mousseau},
+  title     = {Algorithmic developments of the kinetic activation-relaxation technique: Accessing long-time kinetics of larger and more complex systems},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Chubynsky2006,
+  doi       = {10.1016/j.jnoncrysol.2006.01.117},
+  url       = {https://doi.org/10.1016/j.jnoncrysol.2006.01.117},
+  year      = {2006},
+  month     = nov,
+  publisher = {Elsevier {BV}},
+  volume    = {352},
+  number    = {42-49},
+  pages     = {4424--4429},
+  author    = {Mykyta V. Chubynsky and H. Vocks and G.T. Barkema and Normand Mousseau},
+  title     = {Exploiting memory in event-based simulations},
+  journal   = {Journal of Non-Crystalline Solids}
+}
+
+@article{McKay2014,
+  doi       = {10.1016/j.jsc.2013.09.003},
+  url       = {https://doi.org/10.1016/j.jsc.2013.09.003},
+  year      = {2014},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {60},
+  pages     = {94--112},
+  author    = {Brendan D. McKay and Adolfo Piperno},
+  title     = {Practical graph isomorphism,  {II}},
+  journal   = {Journal of Symbolic Computation}
+}
+
+@article{ElMellouhi2008,
+  doi       = {10.1103/physrevb.78.153202},
+  url       = {https://doi.org/10.1103/physrevb.78.153202},
+  year      = {2008},
+  month     = oct,
+  publisher = {American Physical Society ({APS})},
+  volume    = {78},
+  number    = {15},
+  author    = {Fedwa El-Mellouhi and Normand Mousseau and Laurent J. Lewis},
+  title     = {Kinetic activation-relaxation technique: An off-lattice self-learning kinetic Monte Carlo algorithm},
+  journal   = {Physical Review B}
+}
+
+@article{Vineyard1957,
+  doi       = {10.1016/0022-3697(57)90059-8},
+  url       = {https://doi.org/10.1016/0022-3697(57)90059-8},
+  year      = {1957},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {3},
+  number    = {1-2},
+  pages     = {121--127},
+  author    = {George H. Vineyard},
+  title     = {Frequency factors and isotope effects in solid state rate processes},
+  journal   = {Journal of Physics and Chemistry of Solids}
+}
+
+@article{Hastings1970,
+  doi       = {10.1093/biomet/57.1.97},
+  url       = {https://doi.org/10.1093/biomet/57.1.97},
+  year      = {1970},
+  month     = apr,
+  publisher = {Oxford University Press ({OUP})},
+  volume    = {57},
+  number    = {1},
+  pages     = {97--109},
+  author    = {W. K. Hastings},
+  title     = {Monte Carlo sampling methods using Markov chains and their applications},
+  journal   = {Biometrika}
+}
+
+@article{Bombac2017,
+  doi       = {10.1080/02670836.2017.1310417},
+  url       = {https://doi.org/10.1080/02670836.2017.1310417},
+  year      = {2017},
+  month     = apr,
+  publisher = {Informa {UK} Limited},
+  volume    = {33},
+  number    = {13},
+  pages     = {1505--1514},
+  author    = {D. Bomba\v{c} and I. H. Katzarov and D. L. Pashov and A. T. Paxton},
+  title     = {Theoretical evaluation of the role of crystal defects on local equilibrium and effective diffusivity of hydrogen in iron},
+  journal   = {Materials Science and Technology}
+}
+
+@article{Bortz1975,
+  doi       = {10.1016/0021-9991(75)90060-1},
+  url       = {https://doi.org/10.1016/0021-9991(75)90060-1},
+  year      = {1975},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {17},
+  number    = {1},
+  pages     = {10--18},
+  author    = {A.B. Bortz and M.H. Kalos and J.L. Lebowitz},
+  title     = {A new algorithm for Monte Carlo simulation of Ising spin systems},
+  journal   = {Journal of Computational Physics}
+}
+
+@article{PlasenciaGutirrez2016,
+  doi       = {10.1021/acs.jctc.5b01216},
+  url       = {https://doi.org/10.1021/acs.jctc.5b01216},
+  year      = {2016},
+  month     = dec,
+  publisher = {American Chemical Society ({ACS})},
+  volume    = {13},
+  number    = {1},
+  pages     = {125--134},
+  author    = {Manuel Plasencia Guti{\'{e}}rrez and Carlos Arg{\'{a}}ez and Hannes J{\'{o}}nsson},
+  title     = {Improved Minimum Mode Following Method for Finding First Order Saddle Points},
+  journal   = {Journal of Chemical Theory and Computation}
+}
+
+@article{Osetsky1995,
+  doi       = {10.1080/01418619508239930},
+  url       = {https://doi.org/10.1080/01418619508239930},
+  year      = {1995},
+  month     = aug,
+  publisher = {Informa {UK} Limited},
+  volume    = {72},
+  number    = {2},
+  pages     = {361--381},
+  author    = {Yu. N. Osetsky and A. G. Mikhin and A. Serra},
+  title     = {Study of copper precipitates in $\alpha$--iron by computer simulation I. Interatomic potentials and properties of Fe and Cu},
+  journal   = {Philosophical Magazine A}
+}
+
+@article{Chui2015,
+  doi       = {10.1142/s201032471540007x},
+  url       = {https://doi.org/10.1142/s201032471540007x},
+  year      = {2015},
+  month     = dec,
+  publisher = {World Scientific Pub Co Pte Lt},
+  volume    = {05},
+  number    = {04},
+  pages     = {1540007},
+  author    = {C.~P. Chui and Wenqing Liu and Yongbing Xu and Yan Zhou},
+  title     = {Molecular Dynamics Simulation of Iron --- A Review},
+  journal   = {{SPIN}}
+}
+
+@article{Welling2011,
+  doi       = {10.1016/j.cpc.2010.11.002},
+  url       = {https://doi.org/10.1016/j.cpc.2010.11.002},
+  year      = {2011},
+  month     = mar,
+  publisher = {Elsevier {BV}},
+  volume    = {182},
+  number    = {3},
+  pages     = {611--615},
+  author    = {Ulrich Welling and Guido Germano},
+  title     = {Efficiency of linked cell algorithms},
+  journal   = {Computer Physics Communications}
+}
+
+@article{Gonnet2006,
+  doi       = {10.1002/jcc.20563},
+  url       = {https://doi.org/10.1002/jcc.20563},
+  year      = {2006},
+  publisher = {Wiley},
+  volume    = {28},
+  number    = {2},
+  pages     = {570--573},
+  author    = {Pedro Gonnet},
+  title     = {A simple algorithm to accelerate the computation of non-bonded interactions in cell-based molecular dynamics simulations},
+  journal   = {Journal of Computational Chemistry}
+}
+
+
+@book{Sedgewick2003,
+  author    = {Sedgewick, Robert and Schidlowsky, Michael},
+  title     = {Algorithms in Java, Third Edition, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching},
+  year      = {1998},
+  isbn      = {0201361205},
+  publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+  address   = {USA},
+  edition   = {3rd}
+}
+
+
+
+@techreport{Morton1966,
+  title       = {{A computer oriented geodetic data base and a new technique in file sequencing}},
+  author      = {Morton, G. M.},
+  adress      = {Ottawa, Canada.},
+  month       = mar,
+  year        = {1966},
+  institution = {IBM Ltd}
+}
+
+
+@misc{gilreath2004hash,
+  title         = {Hash sort: A linear time complexity multiple-dimensional sort algorithm},
+  author        = {William F. Gilreath},
+  year          = {2004},
+  eprint        = {cs/0408040},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.DS}
+}
+
+@incollection{Imamura2016,
+  doi       = {10.1007/978-3-319-46759-7_20},
+  url       = {https://doi.org/10.1007/978-3-319-46759-7_20},
+  year      = {2016},
+  publisher = {Springer International Publishing},
+  pages     = {259--267},
+  author    = {Yasunobu Imamura and Takeshi Shinohara and Kouichi Hirata and Tetsuji Kuboyama},
+  title     = {Fast Hilbert Sort Algorithm Without Using Hilbert Indices},
+  booktitle = {Similarity Search and Applications}
+}
+
+@book{Knuth1998,
+  author    = {Knuth, Donald E.},
+  title     = {The Art of Computer Programming,  Volume 3: (2nd Ed.) Sorting and Searching},
+  year      = {1998},
+  isbn      = {0201896850},
+  publisher = {Addison Wesley Longman Publishing Co., Inc.},
+  address   = {USA}
+}
+
+
+
+@article{Hubert1891,
+  author   = {Hubert, David},
+  journal  = {Mathematische Annalen},
+  keywords = {A continuous map from an interval onto a square. Nondifferentiable functions},
+  language = {ger},
+  pages    = {459-460},
+  title    = {Ueber die stetige Abbildung einer Linie auf ein Flächenstück},
+  url      = {http://eudml.org/doc/157555},
+  volume   = {38},
+  year     = {1891}
+}
+
+@article{Moon2001,
+  doi       = {10.1109/69.908985},
+  url       = {https://doi.org/10.1109/69.908985},
+  year      = {2001},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume    = {13},
+  number    = {1},
+  pages     = {124--141},
+  author    = {B. Moon and H.V. Jagadish and C. Faloutsos and J.H. Saltz},
+  title     = {Analysis of the clustering properties of the Hilbert space-filling curve},
+  journal   = {{IEEE} Transactions on Knowledge and Data Engineering}
+}
+
+@article{Anderson2008,
+  doi       = {10.1016/j.jcp.2008.01.047},
+  url       = {https://doi.org/10.1016/j.jcp.2008.01.047},
+  year      = {2008},
+  month     = may,
+  publisher = {Elsevier {BV}},
+  volume    = {227},
+  number    = {10},
+  pages     = {5342--5359},
+  author    = {Joshua A. Anderson and Chris D. Lorenz and A. Travesset},
+  title     = {General purpose molecular dynamics simulations fully implemented on graphics processing units},
+  journal   = {Journal of Computational Physics}
+}
+
+@book{Allen1987,
+  author    = {Allen, M. P.},
+  title     = {Computer simulation of liquids},
+  publisher = {Clarendon Press Oxford University Press},
+  year      = {1987},
+  address   = {Oxford England New York},
+  isbn      = {0-19-855375-7}
+}
+
+@article{Rapaport1988,
+  doi       = {10.1016/0167-7977(88)90014-7},
+  url       = {https://doi.org/10.1016/0167-7977(88)90014-7},
+  year      = {1988},
+  month     = dec,
+  publisher = {Elsevier {BV}},
+  volume    = {9},
+  number    = {1},
+  pages     = {1--53},
+  author    = {D.C. Rapaport},
+  title     = {Large-scale molecular dynamics simulation using vector and parallel computers},
+  journal   = {Computer Physics Reports}
+}
+
+@article{Meloni2007,
+  doi       = {10.1063/1.2719690},
+  url       = {https://doi.org/10.1063/1.2719690},
+  year      = {2007},
+  month     = mar,
+  publisher = {{AIP} Publishing},
+  volume    = {126},
+  number    = {12},
+  pages     = {121102},
+  author    = {Simone Meloni and Mario Rosati and Luciano Colombo},
+  title     = {Efficient particle labeling in atomistic simulations},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Daw1983,
+  doi       = {10.1103/physrevlett.50.1285},
+  url       = {https://doi.org/10.1103/physrevlett.50.1285},
+  year      = {1983},
+  month     = apr,
+  publisher = {American Physical Society ({APS})},
+  volume    = {50},
+  number    = {17},
+  pages     = {1285--1288},
+  author    = {Murray S. Daw and M. I. Baskes},
+  title     = {Semiempirical,  Quantum Mechanical Calculation of Hydrogen Embrittlement in Metals},
+  journal   = {Physical Review Letters}
+}
+
+@article{Foiles1986,
+  doi       = {10.1103/physrevb.33.7983},
+  url       = {https://doi.org/10.1103/physrevb.33.7983},
+  year      = {1986},
+  month     = jun,
+  publisher = {American Physical Society ({APS})},
+  volume    = {33},
+  number    = {12},
+  pages     = {7983--7991},
+  author    = {S. M. Foiles and M. I. Baskes and M. S. Daw},
+  title     = {Embedded-atom-method functions for the fcc metals Cu,  Ag,  Au,  Ni,  Pd,  Pt,  and their alloys},
+  journal   = {Physical Review B}
+}
+
+@article{Daw1984,
+  doi       = {10.1103/physrevb.29.6443},
+  url       = {https://doi.org/10.1103/physrevb.29.6443},
+  year      = {1984},
+  month     = jun,
+  publisher = {American Physical Society ({APS})},
+  volume    = {29},
+  number    = {12},
+  pages     = {6443--6453},
+  author    = {Murray S. Daw and M. I. Baskes},
+  title     = {Embedded-atom method: Derivation and application to impurities,  surfaces,  and other defects in metals},
+  journal   = {Physical Review B}
+}
+
+@article{Mendelev2003,
+  doi       = {10.1080/14786430310001613264},
+  url       = {https://doi.org/10.1080/14786430310001613264},
+  year      = {2003},
+  month     = dec,
+  publisher = {Informa {UK} Limited},
+  volume    = {83},
+  number    = {35},
+  pages     = {3977--3994},
+  author    = {M. I. Mendelev and S. Han and D. J. Srolovitz and G. J. Ackland and D. Y. Sun and M. Asta},
+  title     = {Development of new interatomic potentials appropriate for crystalline and liquid iron},
+  journal   = {Philosophical Magazine}
+}
+
+@article{Ackland2004,
+  doi       = {10.1088/0953-8984/16/27/003},
+  url       = {https://doi.org/10.1088/0953-8984/16/27/003},
+  year      = {2004},
+  month     = jun,
+  publisher = {{IOP} Publishing},
+  volume    = {16},
+  number    = {27},
+  pages     = {S2629--S2642},
+  author    = {G J Ackland and M I Mendelev and D J Srolovitz and S Han and A V Barashev},
+  title     = {Development of an interatomic potential for phosphorus impurities in ~-iron},
+  journal   = {Journal of Physics: Condensed Matter}
+}
+
+@article{Elcoro2010,
+  doi       = {10.1088/0143-0807/32/1/003},
+  url       = {https://doi.org/10.1088/0143-0807/32/1/003},
+  year      = {2010},
+  month     = nov,
+  publisher = {{IOP} Publishing},
+  volume    = {32},
+  number    = {1},
+  pages     = {25--35},
+  author    = {Luis Elcoro and Jes{\'{u}}s Etxebarria},
+  title     = {Common misconceptions about the dynamical theory of crystal lattices: Cauchy relations,  lattice potentials and infinite crystals},
+  journal   = {European Journal of Physics}
+}
+
+@article{Finnis1984,
+  doi       = {10.1080/01418618408244210},
+  url       = {https://doi.org/10.1080/01418618408244210},
+  year      = {1984},
+  month     = jul,
+  publisher = {Informa {UK} Limited},
+  volume    = {50},
+  number    = {1},
+  pages     = {45--55},
+  author    = {M. W. Finnis and J. E. Sinclair},
+  title     = {A simple empirical N-body potential for transition metals},
+  journal   = {Philosophical Magazine A}
+}
+
+@article{Song2012,
+  doi       = {10.1038/nmat3479},
+  url       = {https://doi.org/10.1038/nmat3479},
+  year      = {2012},
+  month     = nov,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {12},
+  number    = {2},
+  pages     = {145--151},
+  author    = {Jun Song and W. A. Curtin},
+  title     = {Atomic mechanism and prediction of hydrogen embrittlement in iron},
+  journal   = {Nature Materials}
+}
+
+@article{Ramasubramaniam2009,
+  doi       = {10.1103/physrevb.79.174101},
+  url       = {https://doi.org/10.1103/physrevb.79.174101},
+  year      = {2009},
+  month     = may,
+  publisher = {American Physical Society ({APS})},
+  volume    = {79},
+  number    = {17},
+  author    = {Ashwin Ramasubramaniam and Mitsuhiro Itakura and Emily A. Carter},
+  title     = {Interatomic potentials for hydrogen in$\alpha$--iron based on density functional theory},
+  journal   = {Physical Review B}
+}
+
+@inproceedings{JNSSON1998,
+  doi       = {10.1142/9789812839664_0016},
+  url       = {https://doi.org/10.1142/9789812839664_0016},
+  year      = {1998},
+  month     = jun,
+  publisher = {{WORLD} {SCIENTIFIC}},
+  author    = {Hannes J{\'{o}}nsson and Greg Mills and Karsten W. Jacobsen},
+  title     = {Nudged elastic band method for finding minimum energy paths of transitions},
+  booktitle = {Classical and Quantum Dynamics in Condensed Phase Simulations}
+}
+
+@article{Duncan2014,
+  doi       = {10.1063/1.4875477},
+  url       = {https://doi.org/10.1063/1.4875477},
+  year      = {2014},
+  month     = may,
+  publisher = {{AIP} Publishing},
+  volume    = {140},
+  number    = {19},
+  pages     = {194102},
+  author    = {Juliana Duncan and Qiliang Wu and Keith Promislow and Graeme Henkelman},
+  title     = {Biased gradient squared descent saddle point finding method},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Polyak1969,
+  doi       = {10.1016/0041-5553(69)90035-4},
+  url       = {https://doi.org/10.1016/0041-5553(69)90035-4},
+  year      = {1969},
+  month     = jan,
+  publisher = {Elsevier {BV}},
+  volume    = {9},
+  number    = {4},
+  pages     = {94--112},
+  author    = {B.T. Polyak},
+  title     = {The conjugate gradient method in extremal problems},
+  journal   = {{USSR} Computational Mathematics and Mathematical Physics}
+}
+
+@article{Polanyi1969,
+  doi       = {10.1063/1.1672194},
+  url       = {https://doi.org/10.1063/1.1672194},
+  year      = {1969},
+  month     = aug,
+  publisher = {{AIP} Publishing},
+  volume    = {51},
+  number    = {4},
+  pages     = {1439--1450},
+  author    = {J. C. Polanyi and W. H. Wong},
+  title     = {Location of Energy Barriers. I. Effect on the Dynamics of Reactions A{\hspace{0.167em}}$+${\hspace{0.167em}}{BC}},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Gilbert1992,
+  doi       = {10.1137/0802003},
+  url       = {https://doi.org/10.1137/0802003},
+  year      = {1992},
+  month     = feb,
+  publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+  volume    = {2},
+  number    = {1},
+  pages     = {21--42},
+  author    = {Jean Charles Gilbert and Jorge Nocedal},
+  title     = {Global Convergence Properties of Conjugate Gradient Methods for Optimization},
+  journal   = {{SIAM} Journal on Optimization}
+}
+
+@article{Mor1994,
+  doi       = {10.1145/192115.192132},
+  url       = {https://doi.org/10.1145/192115.192132},
+  year      = {1994},
+  month     = sep,
+  publisher = {Association for Computing Machinery ({ACM})},
+  volume    = {20},
+  number    = {3},
+  pages     = {286--307},
+  author    = {Jorge J. Mor{\'{e}} and David J. Thuente},
+  title     = {Line search algorithms with guaranteed sufficient decrease},
+  journal   = {{ACM} Transactions on Mathematical Software ({TOMS})}
+}
+
+@article{Wolfe1969,
+  doi       = {10.1137/1011036},
+  url       = {https://doi.org/10.1137/1011036},
+  year      = {1969},
+  month     = apr,
+  publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+  volume    = {11},
+  number    = {2},
+  pages     = {226--235},
+  author    = {Philip Wolfe},
+  title     = {Convergence Conditions for Ascent Methods},
+  journal   = {{SIAM} Review}
+}
+
+@article{Wolfe1971,
+  doi       = {10.1137/1013035},
+  url       = {https://doi.org/10.1137/1013035},
+  year      = {1971},
+  month     = apr,
+  publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+  volume    = {13},
+  number    = {2},
+  pages     = {185--188},
+  author    = {Philip Wolfe},
+  title     = {Convergence Conditions for Ascent Methods. {II}: Some Corrections},
+  journal   = {{SIAM} Review}
+}
+
+
+@book{NoceWrig2006,
+  doi       = {10.1007/978-0-387-40065-5},
+  url       = {https://doi.org/10.1007/978-0-387-40065-5},
+  year      = {2006},
+  publisher = {Springer New York},
+  edition   = 2,
+  title     = {Numerical Optimization},
+  author    = {Jorge Nocedal and Stephen J. Wright}
+}
+
+@article{Cerjan1981,
+  doi       = {10.1063/1.442352},
+  url       = {https://doi.org/10.1063/1.442352},
+  year      = {1981},
+  month     = sep,
+  publisher = {{AIP} Publishing},
+  volume    = {75},
+  number    = {6},
+  pages     = {2800--2806},
+  author    = {Charles J. Cerjan and William H. Miller},
+  title     = {On finding transition states},
+  journal   = {The Journal of Chemical Physics}
+}
+
+
+@article{Lanczos1950,
+  doi       = {10.6028/jres.045.026},
+  url       = {https://doi.org/10.6028/jres.045.026},
+  year      = {1950},
+  month     = oct,
+  publisher = {National Institute of Standards and Technology ({NIST})},
+  volume    = {45},
+  number    = {4},
+  pages     = {255},
+  author    = {C. Lanczos},
+  title     = {An iteration method for the solution of the eigenvalue problem of linear differential and integral operators},
+  journal   = {Journal of Research of the National Bureau of Standards}
+}
+
+@article{Zeng2014,
+  doi       = {10.1063/1.4862410},
+  url       = {https://doi.org/10.1063/1.4862410},
+  year      = {2014},
+  month     = jan,
+  publisher = {{AIP} Publishing},
+  volume    = {140},
+  number    = {4},
+  pages     = {044115},
+  author    = {Yi Zeng and Penghao Xiao and Graeme Henkelman},
+  title     = {Unification of algorithms for minimum mode optimization},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@incollection{Trochet2018,
+  doi       = {10.1007/978-3-319-42913-7_29-1},
+  url       = {https://doi.org/10.1007/978-3-319-42913-7_29-1},
+  year      = {2018},
+  publisher = {Springer International Publishing},
+  pages     = {1--29},
+  author    = {Mickaël Trochet and Normand Mousseau and Laurent Karim B{\'{e}}land and Graeme Henkelman},
+  title     = {Off-Lattice Kinetic Monte Carlo Methods},
+  booktitle = {Handbook of Materials Modeling}
+}
+
+@article{Benediktsson2013,
+  doi       = {10.1088/0953-8984/25/37/375401},
+  url       = {https://doi.org/10.1088/0953-8984/25/37/375401},
+  year      = {2013},
+  month     = aug,
+  publisher = {{IOP} Publishing},
+  volume    = {25},
+  number    = {37},
+  pages     = {375401},
+  author    = {Magn{\'{u}}s {\TH} Benediktsson and Kjartan K G M{\'{y}}rdal and Pramod Maurya and Andreas Pedersen},
+  title     = {Stability and mobility of vacancy{\textendash}H complexes in Al},
+  journal   = {Journal of Physics: Condensed Matter}
+}
+
+@article{Momida2013,
+  doi       = {10.1103/physrevb.88.144107},
+  url       = {https://doi.org/10.1103/physrevb.88.144107},
+  year      = {2013},
+  month     = oct,
+  publisher = {American Physical Society ({APS})},
+  volume    = {88},
+  number    = {14},
+  author    = {Hiroyoshi Momida and Yusuke Asari and Yoshimichi Nakamura and Yoshitaka Tateyama and Takahisa Ohno},
+  title     = {Hydrogen-enhanced vacancy embrittlement of grain boundaries in iron},
+  journal   = {Physical Review B}
+}
+
+
+@article{Liu1989,
+  doi       = {10.1007/bf01589116},
+  url       = {https://doi.org/10.1007/bf01589116},
+  year      = {1989},
+  month     = aug,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {45},
+  number    = {1-3},
+  pages     = {503--528},
+  author    = {Dong C. Liu and Jorge Nocedal},
+  title     = {On the limited memory {BFGS} method for large scale optimization},
+  journal   = {Mathematical Programming}
+}
+
+@article{Nocedal1980,
+  doi       = {10.1090/s0025-5718-1980-0572855-7},
+  url       = {https://doi.org/10.1090/s0025-5718-1980-0572855-7},
+  year      = {1980},
+  month     = sep,
+  publisher = {American Mathematical Society ({AMS})},
+  volume    = {35},
+  number    = {151},
+  pages     = {773--773},
+  author    = {Jorge Nocedal},
+  title     = {Updating quasi-Newton matrices with limited storage},
+  journal   = {Mathematics of Computation}
+}
+
+
+@article{Pedersen2009,
+  doi       = {10.1016/j.actamat.2009.04.057},
+  url       = {https://doi.org/10.1016/j.actamat.2009.04.057},
+  year      = {2009},
+  month     = aug,
+  publisher = {Elsevier {BV}},
+  volume    = {57},
+  number    = {14},
+  pages     = {4036--4045},
+  author    = {Andreas Pedersen and Hannes Jonsson},
+  title     = {Simulations of hydrogen diffusion at grain boundaries in aluminum},
+  journal   = {Acta Materialia}
+}
+
+@article{Henkelman1999,
+  doi       = {10.1063/1.480097},
+  url       = {https://doi.org/10.1063/1.480097},
+  year      = {1999},
+  month     = oct,
+  publisher = {{AIP} Publishing},
+  volume    = {111},
+  number    = {15},
+  pages     = {7010--7022},
+  author    = {Graeme Henkelman and Hannes J{\'{o}}nsson},
+  title     = {A dimer method for finding saddle points on high dimensional potential surfaces using only first derivatives},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Henkelman2001,
+  doi       = {10.1063/1.1415500},
+  url       = {https://doi.org/10.1063/1.1415500},
+  year      = {2001},
+  month     = dec,
+  publisher = {{AIP} Publishing},
+  volume    = {115},
+  number    = {21},
+  pages     = {9657--9666},
+  author    = {Graeme Henkelman and Hannes J{\'{o}}nsson},
+  title     = {Long time scale kinetic Monte Carlo simulations without lattice approximation and predefined event table},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Katzarov2017,
+  doi       = {10.1103/physrevmaterials.1.033602},
+  url       = {https://doi.org/10.1103/physrevmaterials.1.033602},
+  year      = {2017},
+  month     = aug,
+  publisher = {American Physical Society ({APS})},
+  volume    = {1},
+  number    = {3},
+  author    = {Ivaylo H. Katzarov and Dimitar L. Pashov and Anthony T. Paxton},
+  title     = {Hydrogen embrittlement I. Analysis of hydrogen-enhanced localized plasticity: Effect of hydrogen on the velocity of screw dislocations in $\alpha$--Fe},
+  journal   = {Physical Review Materials}
+}
+
+@article{Heyden2005,
+  doi       = {10.1063/1.2104507},
+  url       = {https://doi.org/10.1063/1.2104507},
+  year      = {2005},
+  month     = dec,
+  publisher = {{AIP} Publishing},
+  volume    = {123},
+  number    = {22},
+  pages     = {224101},
+  author    = {Andreas Heyden and Alexis T. Bell and Frerich J. Keil},
+  title     = {Efficient methods for finding transition states in chemical reactions: Comparison of improved dimer method and partitioned rational function optimization method},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@book{bishop2006,
+  author    = {Bishop, Christopher M.},
+  title     = {Pattern Recognition and Machine Learning (Information Science and Statistics)},
+  year      = {2006},
+  isbn      = {0387310738},
+  publisher = {Springer-Verlag},
+  address   = {Berlin, Heidelberg}
+}
+
+
+@article{Kstner2008,
+  doi       = {10.1063/1.2815812},
+  url       = {https://doi.org/10.1063/1.2815812},
+  year      = {2008},
+  month     = jan,
+  publisher = {{AIP} Publishing},
+  volume    = {128},
+  number    = {1},
+  pages     = {014106},
+  author    = {Johannes K\"{a}stner and Paul Sherwood},
+  title     = {Superlinearly converging dimer method for transition state search},
+  journal   = {The Journal of Chemical Physics}
+}
+
+@article{Xiao2014,
+  doi       = {10.1063/1.4898664},
+  url       = {https://doi.org/10.1063/1.4898664},
+  year      = {2014},
+  month     = oct,
+  publisher = {{AIP} Publishing},
+  volume    = {141},
+  number    = {16},
+  pages     = {164111},
+  author    = {Penghao Xiao and Qiliang Wu and Graeme Henkelman},
+  title     = {Basin constrained $\kappa$-dimer method for saddle point finding},
+  journal   = {The Journal of Chemical Physics}
+}
