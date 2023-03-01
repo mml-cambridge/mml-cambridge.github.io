@@ -25,10 +25,10 @@ I started my PhD in 2019, just before the pandemic. It's been swell.
 ### Patience Abugu
 
 <p align="center">
-  <img src="patience.jpg" alt="Patience Abugu visiting the Vatican" width=50%/>
+  <img src="patience.jpg" alt="Patience Abugu" width=30%/>
 </p>
 
-I had my undergraduate degree at the University of Nigeria, Nsukka, where I studied Pure and Industrial Chemistry. After this, I undetook an Erasmus Mundus joint master degree course in Chemical Nanoengineering with semester rotations in France, Poland and Italy. I wrote my master thesis on the chemical functionalisation of nanosilica with aminosilane in supercritical carbon dioxide for the preparation of starch-nanosilica composites. My PhD at the University of Cambridge started in October 2022 and I am studying bipolymer composites for food packaging applications. Specifically, I am looking at films of cellulose nanofiber (CNF) from lignocellulosic biomass, their chemical modification and composites with other biomaterials such as proteins. Ultimately, the aim is to develop plastics whose chemical, mechanical and gas barrier properties are at least comparable to those of their oil-based counterparts used in food packaging. These materials will have the added advantage of being biodegradable and/or compostable at the end of their useful life.
+I had my undergraduate degree at the University of Nigeria, Nsukka, where I studied Pure and Industrial Chemistry. After this, I undertook an Erasmus Mundus joint master degree course in <a href="https://master-cne.eu/"> Chemical Nanoengineering </a> with semester rotations in France, Poland and Italy. My master thesis was based on the chemical functionalisation of nanosilica with aminosilane in supercritical carbon dioxide for the preparation of starch-nanosilica composites. My PhD at the University of Cambridge started in October 2022 and I am investigating cellulose nanofibers (CNF) from lignocellulosic biomass, their chemical modification and blends with other biomaterials such as proteins. Ultimately, the aim is to develop bio-based plastic materials with comparable mechanical and gas barrier properties to oil-based plastics used in food packaging. The bio-based plastics will have the added advantage of being biodegradable and/or compostable at the end of their useful life.
 
 ### Thomas Højlund-Dodd
 
@@ -38,8 +38,6 @@ Before arriving at Cambridge, I completed an MSc in the study of Energy Systems 
 
 I currently study the compaction of pharmaceutical powdersin close collaboration with Novo Nordisk. The majority of my work is computational, focusing on the use and development of numerical methods such as the finite element method (FEM) and discrete element method (DEM). I eventually hope to create a full-scale model of powder compaction that can be parameterised bottom-up by using single-particle data. Before my PhD, I completed the MPhil in Scientific Computing here in Cambridge. Before coming to Cambridge, I did a bachelors in Biomedical Engineering and a master's in Chemical Engineering at Eindhoven University of Technology, mainly focusing on soft matter physics and chemisty.
 
-
 ### Jokūbas Pelanskis
 
 Hellooo! I started my PhD in 2022, my research focuses on mesoscale simulation of thin ionomer films using many-body dissipative particle dynamics. My project aims to improve our understanding of the catalyst layer, which is often manufactured from a thin layer of Nafion. Good understanding of the morphology might help to reduce the cost of the fuel cell by reducing the amount of expensive plattinum within the cell without sacrificing the effciency.
-
