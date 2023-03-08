@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/mml/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Biomaterials</title>
-      <link>//conorwilliams.github.io/mml/research/biomaterials/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>//conorwilliams.github.io/mml/research/biomaterials/</guid>
-      <description>Thoughts on bioinspired materials</description>
-    </item>
-    
-    <item>
       <title>Carbon nanotubes</title>
       <link>//conorwilliams.github.io/mml/research/nanotubes/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
@@ -53,11 +44,20 @@
     </item>
     
     <item>
-      <title>Physical characterisation of nanomaterials</title>
-      <link>//conorwilliams.github.io/mml/research/charachterisation/</link>
+      <title>Sustainable polymers</title>
+      <link>//conorwilliams.github.io/mml/research/biomaterials/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/charachterisation/</guid>
+      <guid>//conorwilliams.github.io/mml/research/biomaterials/</guid>
+      <description>Thoughts on bioinspired materials</description>
+    </item>
+    
+    <item>
+      <title>The facilities</title>
+      <link>//conorwilliams.github.io/mml/facilities/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/mml/facilities/</guid>
       <description>Characterisation equipment</description>
     </item>
     

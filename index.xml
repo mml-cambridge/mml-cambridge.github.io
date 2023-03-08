@@ -6,14 +6,14 @@
     <description>Recent content on MML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/mml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/mml/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Biomaterials</title>
-      <link>//conorwilliams.github.io/mml/research/biomaterials/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Watch this space</title>
+      <link>//conorwilliams.github.io/mml/news/stub/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/biomaterials/</guid>
-      <description>Thoughts on bioinspired materials</description>
+      <guid>//conorwilliams.github.io/mml/news/stub/</guid>
+      <description>Watch this space for some news articles</description>
     </item>
     
     <item>
@@ -62,11 +62,20 @@
     </item>
     
     <item>
-      <title>Physical characterisation of nanomaterials</title>
-      <link>//conorwilliams.github.io/mml/research/charachterisation/</link>
+      <title>Sustainable polymers</title>
+      <link>//conorwilliams.github.io/mml/research/biomaterials/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/charachterisation/</guid>
+      <guid>//conorwilliams.github.io/mml/research/biomaterials/</guid>
+      <description>Thoughts on bioinspired materials</description>
+    </item>
+    
+    <item>
+      <title>The facilities</title>
+      <link>//conorwilliams.github.io/mml/facilities/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/mml/facilities/</guid>
       <description>Characterisation equipment</description>
     </item>
     
