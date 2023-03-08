@@ -1,6 +1,6 @@
 ---
 author: "James Elliot"
-title: "Biomaterials"
+title: "Sustainable polymers"
 date: "2023-01-23"
 description: "Thoughts on bioinspired materials"
 tags: ["research"]

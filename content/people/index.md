@@ -12,8 +12,8 @@ showReadingTime: false
 
 ### [Conor Williams](https://conorwilliams.github.io/)
 
-<p align="center">
-  <img src="conor.jpg" alt="Surfing the sea of vowels 🌊" width=50%/>
+<p align="left">
+  <img src="conor.jpg" alt="Surfing the sea of vowels 🌊" width=10%/>
 </p>
 
 Hi! I started my PhD in 2020, my research is focused on developing off-lattice kinetic Monte Carlo methods to enable the simulation of solid-state systems into extended timescales. I'm a self-proclaimed C++ addict, you can find out about some of my projects on [GitHub](https://github.com/ConorWilliams).

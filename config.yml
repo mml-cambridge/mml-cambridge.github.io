@@ -29,9 +29,15 @@ languages:
         - name: Search
           url: search/
           weight: 30
-        - name: Research | News
+        - name: Research
           url: research/
           weight: 2
+        - name: News
+          url: news/
+          weight: 3
+        - name: Facilities
+          url: facilities/
+          weight: 3
         - name: People
           url: people/
           weight: 5

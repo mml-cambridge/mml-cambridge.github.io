@@ -1,8 +1,9 @@
 ---
 author: "James Elliot"
-title: "Physical characterisation of nanomaterials"
+title: "The facilities"
 date: "2023-01-23"
 description: "Characterisation equipment"
+layout: single
 tags: ["research"]
 ---
 
