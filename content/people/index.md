@@ -36,7 +36,11 @@ Before arriving at Cambridge, I completed an MSc in the study of Energy Systems 
 
 ### Danny van der Haven
 
-I currently study the compaction of pharmaceutical powdersin close collaboration with Novo Nordisk. The majority of my work is computational, focusing on the use and development of numerical methods such as the finite element method (FEM) and discrete element method (DEM). I eventually hope to create a full-scale model of powder compaction that can be parameterised bottom-up by using single-particle data. Before my PhD, I completed the MPhil in Scientific Computing here in Cambridge. Before coming to Cambridge, I did a bachelors in Biomedical Engineering and a master's in Chemical Engineering at Eindhoven University of Technology, mainly focusing on soft matter physics and chemisty.
+<p align="center">
+  <img src="Danny.jpg" alt="Danny van der Haven" width=30%/>
+</p>
+
+I currently study the compaction of pharmaceutical powders in close collaboration with Novo Nordisk. The majority of my work is computational, focusing on the use and development of numerical methods such as the finite element method (FEM) and discrete element method (DEM). I eventually hope to create a full-scale model of powder compaction that can be parameterised bottom-up by using single-particle data. Before my PhD, I completed the MPhil in Scientific Computing here in Cambridge. Before coming to Cambridge, I did a bachelors in Biomedical Engineering and a master's in Chemical Engineering at Eindhoven University of Technology, mainly focusing on soft matter physics and chemisty.
 
 ### Jokūbas Pelanskis
 
