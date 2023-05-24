@@ -4,16 +4,30 @@ layout: single
 showReadingTime: false
 ---
 
-## Professor
+## James Elliott 
 
-## Post-docs
+<p align="center">
+  <img src="jameselliott.jpg" alt="Low-res James" width=20%/>
+</p>
 
-## PhD students
+*Professor of Macromolecular Materials Science*
+
+*Fellow, Tutor and Director of Studies in Natural Sciences (Fitzwilliam College)*
+
+James Elliott is Professor of Macromolecular Materials in the University of Cambridge, where he carries out research on multiscale computational modelling of soft matter systems, including coarse-grained and molecular modelling of polymers, carbon nanotubes and their composites. He obtained his MA in Natural Sciences (Physics) from Cambridge, and his PhD in Polymer Physics at the University of Bristol. He was a JSPS Invitation Fellow and Visiting Professor at the University of Tokyo in 2008, and collaborates with several groups working on CNT synthesis and thermal properties of CNT-polymer composites.
+
+*+44 (0)1223 335987*
+
+*jae1001@cam.ac.uk*
+
+<!-- ## Post-docs -->
+
+## PhD students:
 
 ### [Conor Williams](https://conorwilliams.github.io/)
 
 <p align="center">
-  <img src="conor.jpg" alt="Surfing the sea of vowels 🌊" width=30%/>
+  <img src="conor.jpg" alt="Surfing the sea of vowels 🌊" width=40%/>
 </p>
 
 Hi! I started my PhD in 2020, my research is focused on developing off-lattice kinetic Monte Carlo methods to enable the simulation of solid-state systems into extended timescales. I'm a self-proclaimed C++ addict, you can find out about some of my projects on [GitHub](https://github.com/ConorWilliams).
