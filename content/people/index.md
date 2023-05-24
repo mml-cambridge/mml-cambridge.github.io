@@ -34,7 +34,7 @@ Hi! I started my PhD in 2020, my research is focused on developing off-lattice k
 
 ### Ben Seddon
 
-I started my PhD in 2019, just before the pandemic. It's been swell.
+I started my PhD in 2019 as part of the CDT in Computational Methods for Materials Science. I'm trying to develop machine learned interatomic potentials for iron that take into account both the magnetic and spatial atomic degrees of freedom. This is important as the magnetic interactions affect iron's structural properties, for example by stabilising the room temperature phase. I've been using [constrained Density Functional Theory](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00673) (cDFT) to generate the training data as this allows me to treat the atomic magnetic moments as inputs in the same way as the positions. 
 
 ### Patience Abugu
 
