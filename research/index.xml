@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Researches on MML</title>
-    <link>//conorwilliams.github.io/mml/research/</link>
+    <link>//mml-cambridge.github.io/research/</link>
     <description>Recent content in Researches on MML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/mml/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//mml-cambridge.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carbon nanotubes</title>
-      <link>//conorwilliams.github.io/mml/research/nanotubes/</link>
+      <link>//mml-cambridge.github.io/research/nanotubes/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/nanotubes/</guid>
+      <guid>//mml-cambridge.github.io/research/nanotubes/</guid>
       <description>Thoughts on carbon nanotubes</description>
     </item>
     
     <item>
       <title>Composite materials</title>
-      <link>//conorwilliams.github.io/mml/research/composite/</link>
+      <link>//mml-cambridge.github.io/research/composite/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/composite/</guid>
+      <guid>//mml-cambridge.github.io/research/composite/</guid>
       <description>Thoughts on composites materials science</description>
     </item>
     
     <item>
       <title>Computational modelling</title>
-      <link>//conorwilliams.github.io/mml/research/modelling/</link>
+      <link>//mml-cambridge.github.io/research/modelling/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/modelling/</guid>
+      <guid>//mml-cambridge.github.io/research/modelling/</guid>
       <description>Thoughts on modelling in materials science</description>
     </item>
     
     <item>
       <title>Granular materials</title>
-      <link>//conorwilliams.github.io/mml/research/granular/</link>
+      <link>//mml-cambridge.github.io/research/granular/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/granular/</guid>
+      <guid>//mml-cambridge.github.io/research/granular/</guid>
       <description>Thoughts on granular materials</description>
     </item>
     
     <item>
       <title>Sustainable polymers</title>
-      <link>//conorwilliams.github.io/mml/research/biomaterials/</link>
+      <link>//mml-cambridge.github.io/research/biomaterials/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/research/biomaterials/</guid>
+      <guid>//mml-cambridge.github.io/research/biomaterials/</guid>
       <description>Thoughts on bioinspired materials</description>
     </item>
     

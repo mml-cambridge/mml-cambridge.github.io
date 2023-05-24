@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>codes on MML</title>
-    <link>//conorwilliams.github.io/mml/tags/codes/</link>
+    <link>//mml-cambridge.github.io/tags/codes/</link>
     <description>Recent content in codes on MML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/mml/tags/codes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//mml-cambridge.github.io/tags/codes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenFLY</title>
-      <link>//conorwilliams.github.io/mml/codes/openfly/</link>
+      <link>//mml-cambridge.github.io/codes/openfly/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/mml/codes/openfly/</guid>
+      <guid>//mml-cambridge.github.io/codes/openfly/</guid>
       <description>The open framework for on-the-fly off-lattice kinetic Monte Carlo simulations.</description>
     </item>
     
