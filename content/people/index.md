@@ -74,7 +74,7 @@ Hola! Bonjour! Ciao! 你好! I started my PhD in 2020. My project investigates t
 
 ### 
 <p align="center">
-  <img src="Jing.jpeg" alt="Jing Wang" width=30%/>
+  <img src="Jing.jpg" alt="Jing Wang" width=30%/>
 </p>
 
 I am currently a postdoctoral research associate in smart cellulose nanofibril films in the group of Prof. James A. Elliott, closely collaborating with Prof. Paul Dupree and Prof. Jonathan M. Cullen for the Smart Sustainable Packaging from Plants (S2UPPlant, NERC) project at the University of Cambridge. I obtained my PhD degree in sustainable energy nanomaterials from the University of Bristol (2018-2022) under the supervision of Prof. Stephen J. Eichhorn, in close collaboration with Prof. Magda Titirici at Imperial College London. My PhD research focused on developing sustainable cellulose nanocrystals-based nanocomposites as electrodes and separators for next-generation energy storage technologies. Moreover, I completed an MSc degree in Advanced Composites at the University of Bristol (2017-2018), researching toughened composites using electrospun cellulose nanocrystals/polyetherimide nanofibrous interleaves. 
