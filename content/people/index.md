@@ -63,7 +63,7 @@ I currently study the compaction of pharmaceutical powders in close collaboratio
 ### Jokūbas Pelanskis
 
 <p align="center">
-  <img src="jacob.jpg" alt="Jokubas Pelanskis" width=30%/>
+  <img src="jacob.png" alt="Jokubas Pelanskis" width=30%/>
 </p>
 
 I joined the group in 2021 as part of the CDT in Computational Methods for Materials Science. My work focuses on using coarse-grained mesoscale (many-body dissipative particle dynamics) simulations to understand thin ionomer (Nafion) layers up to ~10nm. Such structures are found in hydrogen fuel cells (the catalyst layer). Better understanding of thin ionomer films is needed in order to reduce the amount of expensive platinum catalyst used in the fuel cells without sacrificing the efficiency. The first step of the project and the main focus of my first year has been to find the best set of MDPD model parameters that describe the system at hand. Eventually, I hope to build a full coarse-grained simulation of thin ionomer films which will allow me to investigate various membrane properties such as diffusivity and topological properties. The project is done in callaboration with Johnson Matthey. Before joining the group, I did my integrated master's degree in Natural Sciences at the University of Cambridge where in later years I specialised in Physics and quantum mechanics.
